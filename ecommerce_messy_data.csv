@@ -1,0 +1,1021 @@
+OrderID,CustomerID,OrderDate,ProductID,ProductCategory,ProductName,Quantity,PricePerUnit,PaymentMethod,OrderStatus,CustomerLocation,CustomerSegment,DiscountApplied,DeliveryTime(days),IsReturned,TotalAmount
+ORD100000,CUST1102,2023-06-26,PROD2284,Electrnics,Product_86,4.0,3968.22,Credit Card,Delivered,Bangalore,New,0.18,4,0,13015.76
+ORD100001,CUST1435,2023-09-24,PROD2156,Books,Product_92,3.0,1554.25,Net Banking,Returned,Chennai,New,0.2,5,1,3730.2
+ORD100002,CUST1348,2023-12-07,PROD2074,Books,Product_14,4.0,2752.71,Cash on Delivery,Returned,Delhi,VIP,0.05,-5,1,10460.3
+ORD100003,CUST1270,2023-10-09,PROD2287,Books,Product_27,1.0,,Credit Card,Delivered,Chennai,New,0.29,1,0,1272.06
+ORD100004,CUST1106,2023-03-04,PROD2129,Books,Product_40,,,Net Banking,,Chennai,Regular,0.16,7,0,5366.54
+ORD100005,CUST1071,2023-08-05,PROD2174,Beauty,Product_58,1.0,3688.83,UPI,Cancelled,Mumbai,Regular,0.04,1,0,3541.28
+ORD100006,CUST1188,2023-12-08,PROD2083,Fasion,Product_28,4.0,4420.15,Cash on Delivery,Delivered,Delhi,New,0.27,8,0,12906.84
+ORD100007,CUST1020,2023-11-11,PROD2021,Home & Kitchen,Product_26,4.0,695.33,Net Banking,Cancelled,Mumbai,New,0.02,3,0,2725.69
+ORD100008,CUST1102,2023-10-10,PROD2026,Electrnics,Product_63,1.0,3209.73,Cash on Delivery,Returned,Hyderabad,New,0.27,6,1,2343.1
+ORD100009,CUST1121,2023-06-26,PROD2194,Fasion,Product_66,2.0,2952.5,Cash on Delivery,Returned,Pune,Regular,0.3,7,1,4133.5
+ORD100010,CUST1466,2023-04-08,PROD2235,Electrnics,Product_25,3.0,680.23,Net Banking,Delivered,Delhi,Regular,0.21,1,0,1612.15
+ORD100011,CUST1214,2023-04-15,PROD2091,Beauty,Product_3,4.0,1138.28,Cash on Delivery,Delivered,Pune,New,0.23,6,0,3505.9
+ORD100012,CUST1330,2023-04-09,PROD2020,Beauty,Product_72,4.0,,UPI,Returned,Delhi,Regular,0.1,7,1,5846.08
+ORD100013,CUST1458,2023-11-07,PROD2083,Toys,Product_44,3.0,917.96,Cash on Delivery,Cancelled,Mumbai,New,0.28,6,0,1982.79
+ORD100014,CUST1087,2023-01-06,PROD2261,Books,Product_97,1.0,1294.27,Net Banking,Delivered,Hyderabad,New,0.16,4,0,1087.19
+ORD100015,CUST1372,2023-07-16,PROD2146,Electrnics,Product_42,1.0,1411.24,Cash on Delivery,Cancelled,Pune,VIP,0.22,1,0,1100.77
+ORD100016,CUST1099,2023-12-17,PROD2256,Electrnics,Product_99,1.0,,Net Banking,Cancelled,Chennai,VIP,0.28,9,0,1256.26
+ORD100017,CUST1359,2023-05-13,PROD2057,Home & Kitchen,Product_6,,3772.01,UPI,Returned,Pune,Regular,0.29,4,1,5356.25
+ORD100018,CUST1151,2023-12-24,PROD2014,Books,Product_39,2.0,2902.37,UPI,Returned,Bangalore,Regular,0.25,7,1,-100.0
+ORD100019,CUST1130,2023-09-16,PROD2161,Beauty,Product_52,4.0,4932.61,Net Banking,Returned,Chennai,Regular,0.09,7,1,17954.7
+ORD100020,CUST1149,2023-01-23,PROD2162,Electrnics,Product_23,1.0,2132.21,Cash on Delivery,Returned,Delhi,New,0.29,2,1,1513.87
+ORD100021,CUST1308,2023-02-22,PROD2280,Fasion,Product_89,,3793.94,UPI,Returned,Chennai,VIP,0.19,1,1,9219.27
+ORD100022,CUST1257,2023-06-14,PROD2279,Home & Kitchen,Product_50,4.0,4370.2,UPI,Delivered,Pune,New,0.28,8,0,12586.18
+ORD100023,CUST1343,2023-07-21,PROD2011,Electrnics,Product_43,3.0,3426.99,UPI,Delivered,Mumbai,New,0.2,8,0,8224.78
+ORD100024,CUST1491,2023-03-24,PROD2273,Beauty,Product_19,4.0,2118.14,Cash on Delivery,Cancelled,Chennai,Regular,0.09,7,0,7710.03
+ORD100025,CUST1413,2023-05-25,PROD2270,Toys,Product_69,2.0,3792.61,UPI,Cancelled,Bangalore,VIP,0.11,8,0,6750.85
+ORD100026,CUST1293,2023-03-26,PROD2207,Toys,Product_51,4.0,,Credit Card,Cancelled,Hyderabad,New,0.17,3,0,3645.26
+ORD100027,CUST1385,2023-03-19,PROD2026,Beauty,Product_11,2.0,,Net Banking,Delivered,Bangalore,VIP,0.24,2,0,2591.62
+ORD100028,CUST1191,2023-01-01,PROD2071,Books,Product_12,,2778.76,UPI,Cancelled,Delhi,Regular,0.1,7,0,10003.54
+ORD100029,CUST1443,2023-02-20,PROD2059,Home & Kitchen,Product_74,1.0,2919.51,Credit Card,,Bangalore,Regular,0.17,8,1,2423.19
+ORD100030,CUST1276,2023-06-22,PROD2144,Toys,Product_8,3.0,208.49,Net Banking,Returned,Mumbai,New,0.1,1,1,562.92
+ORD100031,CUST1160,2023-07-24,PROD2092,Electrnics,Product_24,1.0,4731.06,Net Banking,Cancelled,Chennai,Regular,0.24,9,0,3595.61
+ORD100032,CUST1459,2023-09-17,PROD2007,Toys,Product_92,4.0,3513.47,Net Banking,Delivered,Hyderabad,Regular,0.14,4,0,12086.34
+ORD100033,CUST1313,2023-10-15,PROD2078,Books,Product_41,,2528.95,Credit Card,Delivered,Hyderabad,VIP,0.02,4,0,9913.48
+ORD100034,CUST1021,2023-02-03,PROD2026,Beauty,Product_36,4.0,4672.32,Net Banking,Delivered,Bangalore,Regular,0.05,3,0,17754.82
+ORD100035,CUST1252,2023-12-14,PROD2173,Electrnics,Product_85,2.0,2251.57,Credit Card,Returned,Pune,New,0.02,6,1,4413.08
+ORD100036,CUST1235,2023-04-05,PROD2049,Electrnics,Product_72,3.0,4904.13,Cash on Delivery,Returned,Chennai,Regular,0.15,1,1,12505.53
+ORD100037,CUST1344,2023-03-13,PROD2198,Toys,Product_55,3.0,2610.2,UPI,Delivered,Pune,Regular,0.03,6,0,7595.68
+ORD100038,CUST1048,2023-02-08,PROD2180,Home & Kitchen,Product_9,,660.0,Net Banking,Delivered,Chennai,Regular,0.03,2,0,2560.8
+ORD100039,CUST1474,2023-06-03,PROD2023,Fasion,Product_47,,3847.52,Cash on Delivery,Cancelled,Pune,New,0.28,9,0,11080.86
+ORD100040,CUST1058,2023-09-07,PROD2045,Beauty,Product_15,2.0,3426.6,Net Banking,Delivered,Pune,VIP,0.26,2,0,-100.0
+ORD100041,CUST1169,2023-06-11,PROD2014,Electrnics,Product_48,,3887.63,Cash on Delivery,Delivered,Delhi,VIP,0.14,7,0,3343.36
+ORD100042,CUST1475,2023-04-28,PROD2152,Toys,Product_82,1.0,4762.07,UPI,Delivered,Delhi,VIP,0.3,1,0,3333.45
+ORD100043,CUST1187,2023-09-16,PROD2221,Beauty,Product_42,3.0,3904.8,Cash on Delivery,Delivered,Mumbai,Regular,0.0,7,0,11714.4
+ORD100044,CUST1463,2023-11-02,PROD2205,Fasion,Product_60,,3095.55,UPI,,Delhi,Regular,0.18,5,0,5076.7
+ORD100045,CUST1270,2023-09-25,PROD2272,Electrnics,Product_84,4.0,4300.81,Cash on Delivery,,Mumbai,Regular,0.18,8,0,14106.66
+ORD100046,CUST1189,2023-02-23,PROD2235,Electrnics,Product_70,3.0,3398.91,Net Banking,Cancelled,Chennai,New,0.14,4,0,8769.19
+ORD100047,CUST1445,2023-08-24,PROD2227,Toys,Product_12,2.0,2099.78,Credit Card,Cancelled,Pune,New,0.12,7,0,3695.61
+ORD100048,CUST1174,2023-08-10,PROD2008,Electrnics,Product_2,1.0,4439.54,Net Banking,Delivered,Mumbai,Regular,0.14,6,0,3818.0
+ORD100049,CUST1445,2023-09-08,PROD2165,Books,Product_7,2.0,1187.31,UPI,Delivered,Mumbai,New,0.12,5,0,2089.67
+ORD100050,CUST1050,2023-11-09,PROD2213,Fasion,Product_80,1.0,3601.74,Net Banking,Returned,Hyderabad,Regular,0.22,4,1,2809.36
+ORD100051,CUST1363,2023-04-22,PROD2116,Toys,Product_3,2.0,4419.66,Cash on Delivery,Returned,Chennai,New,0.04,7,1,8485.75
+ORD100052,CUST1054,2023-09-12,PROD2071,Beauty,Product_3,3.0,3683.45,Net Banking,Delivered,Delhi,VIP,0.06,5,0,10387.33
+ORD100053,CUST1243,2023-10-30,PROD2063,Home & Kitchen,Product_27,1.0,3516.65,Credit Card,Delivered,Chennai,New,0.05,5,0,3340.82
+ORD100054,CUST1319,2023-07-26,PROD2204,Books,Product_40,3.0,3787.93,Net Banking,Returned,Pune,New,0.08,1,1,10454.69
+ORD100055,CUST1130,2023-08-17,PROD2208,Home & Kitchen,Product_33,3.0,2378.77,Credit Card,Cancelled,Mumbai,Regular,0.16,2,0,5994.5
+ORD100056,CUST1484,2023-12-07,PROD2071,Home & Kitchen,Product_92,1.0,4383.44,Credit Card,Cancelled,Hyderabad,New,0.03,5,0,4251.94
+ORD100057,CUST1306,2023-03-07,PROD2276,Fasion,Product_1,1.0,1096.84,Net Banking,Returned,Mumbai,New,0.26,3,1,811.66
+ORD100058,CUST1134,2023-03-16,PROD2273,Home & Kitchen,Product_8,4.0,724.19,Credit Card,Cancelled,Bangalore,New,0.09,2,0,2636.05
+ORD100059,CUST1020,2023-04-13,PROD2094,Electrnics,Product_32,4.0,1498.99,Net Banking,Returned,Bangalore,New,0.05,4,1,5696.16
+ORD100060,CUST1328,2023-07-11,PROD2165,Home & Kitchen,Product_48,4.0,2704.73,Cash on Delivery,Returned,Delhi,VIP,0.2,4,1,8655.14
+ORD100061,CUST1166,2023-09-09,PROD2031,Books,Product_4,3.0,2601.75,Cash on Delivery,Delivered,Bangalore,VIP,0.01,4,0,7727.2
+ORD100062,CUST1273,2023-08-14,PROD2010,Toys,Product_94,3.0,4120.93,UPI,Cancelled,Chennai,Regular,0.19,4,0,10013.86
+ORD100063,CUST1387,2023-10-21,PROD2216,Electrnics,Product_70,4.0,,Cash on Delivery,Returned,Mumbai,Regular,0.21,3,1,6580.35
+ORD100064,CUST1088,2023-11-02,PROD2288,Fasion,Product_19,3.0,2473.29,Cash on Delivery,Delivered,Chennai,Regular,0.06,7,0,6974.68
+ORD100065,CUST1315,2023-04-08,PROD2101,Electrnics,Product_32,3.0,165.5,Net Banking,Cancelled,Hyderabad,Regular,0.01,9,0,491.54
+ORD100066,CUST1013,2023-12-04,PROD2266,Beauty,Product_9,1.0,2107.72,Net Banking,Cancelled,Pune,New,0.11,5,0,1875.87
+ORD100067,CUST1241,2023-10-13,PROD2213,Toys,Product_12,1.0,3274.09,Credit Card,Returned,Chennai,VIP,0.03,4,1,3175.87
+ORD100068,CUST1264,2023-12-01,PROD2178,Books,Product_11,3.0,175.99,Cash on Delivery,Returned,Mumbai,Regular,0.03,2,1,512.13
+ORD100069,CUST1345,2023-12-13,PROD2087,Electrnics,Product_46,4.0,1476.32,UPI,Delivered,Mumbai,VIP,0.08,-5,0,5432.86
+ORD100070,CUST1052,2023-11-04,PROD2040,Home & Kitchen,Product_16,,1118.99,UPI,Delivered,Bangalore,New,0.09,5,0,2036.56
+ORD100071,CUST1385,2023-09-06,PROD2075,Home & Kitchen,Product_1,4.0,,Cash on Delivery,Cancelled,Chennai,New,0.16,7,0,1027.25
+ORD100072,CUST1339,2023-06-15,PROD2045,Toys,Product_63,2.0,2448.37,Cash on Delivery,Cancelled,Chennai,New,0.2,9,0,3917.39
+ORD100073,CUST1091,2023-12-01,PROD2159,Fasion,Product_21,4.0,990.44,UPI,Returned,Chennai,New,0.18,7,1,3248.64
+ORD100074,CUST1366,2023-01-30,PROD2079,Fasion,Product_30,1.0,3741.1,Net Banking,Delivered,Bangalore,VIP,0.04,5,0,3591.46
+ORD100075,CUST1443,2023-09-04,PROD2085,Beauty,Product_13,3.0,,Credit Card,Delivered,Delhi,New,0.05,6,0,-100.0
+ORD100076,CUST1454,2023-04-16,PROD2091,Home & Kitchen,Product_34,3.0,2773.37,Cash on Delivery,Returned,Delhi,Regular,0.26,3,1,6156.88
+ORD100077,CUST1427,2023-02-20,PROD2147,Home & Kitchen,Product_4,1.0,4910.37,Cash on Delivery,Delivered,Pune,Regular,0.17,5,0,4075.61
+ORD100078,CUST1263,2023-03-22,PROD2160,Home & Kitchen,Product_28,2.0,2307.35,Net Banking,Returned,Delhi,New,0.26,8,1,-100.0
+ORD100079,CUST1430,2023-05-13,PROD2201,Fasion,Product_95,2.0,2615.5,Cash on Delivery,Delivered,Mumbai,New,0.11,1,0,4655.59
+ORD100080,CUST1034,2023-10-12,PROD2241,Books,Product_59,2.0,4947.17,UPI,Delivered,Pune,VIP,0.18,1,0,8113.36
+ORD100081,CUST1205,2023-05-18,PROD2001,Fasion,Product_27,1.0,1234.59,UPI,Cancelled,Chennai,VIP,0.16,7,0,1037.06
+ORD100082,CUST1080,2023-07-03,PROD2224,Books,Product_69,2.0,4718.48,Credit Card,Returned,Mumbai,Regular,0.1,5,1,8493.26
+ORD100083,CUST1419,2023-11-26,PROD2288,Electrnics,Product_25,1.0,309.9,Cash on Delivery,Cancelled,Mumbai,Regular,0.14,5,0,266.51
+ORD100084,CUST1049,2023-09-30,PROD2232,Toys,Product_3,4.0,2287.3,Net Banking,Returned,Chennai,Regular,0.15,1,1,7776.82
+ORD100085,CUST1359,2023-12-06,PROD2076,Books,Product_97,4.0,443.02,Credit Card,Cancelled,Hyderabad,New,0.06,9,0,1665.76
+ORD100086,CUST1387,2023-03-10,PROD2115,Books,Product_68,1.0,3673.25,Credit Card,Cancelled,Chennai,VIP,0.09,1,0,3342.66
+ORD100087,CUST1001,2023-02-03,PROD2153,Fasion,Product_25,3.0,3081.2,UPI,Returned,Bangalore,Regular,0.24,5,1,7025.14
+ORD100088,CUST1389,2023-09-19,PROD2102,Beauty,Product_20,4.0,3562.51,Net Banking,Returned,Mumbai,VIP,0.27,9,1,10402.53
+ORD100089,CUST1053,2023-02-22,PROD2193,Toys,Product_34,2.0,1934.95,Cash on Delivery,Delivered,Bangalore,New,0.11,4,0,3444.21
+ORD100090,CUST1105,2023-07-24,PROD2165,Books,Product_26,1.0,1910.46,Credit Card,Cancelled,Pune,Regular,0.09,8,0,1738.52
+ORD100091,CUST1259,2023-05-06,PROD2089,Books,Product_5,2.0,322.06,Cash on Delivery,Delivered,Hyderabad,New,0.06,6,0,-100.0
+ORD100092,CUST1309,2023-08-23,PROD2173,Fasion,Product_99,2.0,1814.73,Cash on Delivery,Delivered,Pune,New,0.2,3,0,2903.57
+ORD100093,CUST1476,2023-02-12,PROD2121,Electrnics,Product_61,3.0,4653.51,Net Banking,,Delhi,New,0.1,4,0,12564.48
+ORD100094,CUST1190,2023-08-28,PROD2142,Toys,Product_92,,1958.21,Credit Card,Returned,Bangalore,New,0.3,2,1,2741.49
+ORD100095,CUST1401,2023-04-21,PROD2105,Electrnics,Product_93,3.0,4173.7,Cash on Delivery,Delivered,Chennai,New,0.1,1,0,11268.99
+ORD100096,CUST1217,2023-09-06,PROD2122,Books,Product_9,,4227.39,UPI,Cancelled,Bangalore,New,0.12,8,0,14880.41
+ORD100097,CUST1043,2023-05-31,PROD2008,Toys,Product_50,,,Cash on Delivery,Returned,Bangalore,New,0.18,1,1,-100.0
+ORD100098,CUST1161,2023-07-02,PROD2261,Electrnics,Product_6,2.0,3196.74,UPI,,Mumbai,New,0.24,1,1,4859.04
+ORD100099,CUST1201,2023-12-02,PROD2072,Toys,Product_83,1.0,567.32,Net Banking,Cancelled,Bangalore,Regular,0.14,4,0,487.9
+ORD100100,CUST1445,2023-04-05,PROD2222,Toys,Product_60,2.0,608.03,UPI,Cancelled,Hyderabad,Regular,0.13,6,0,1057.97
+ORD100101,CUST1483,2023-01-08,PROD2040,Toys,Product_44,1.0,338.42,Net Banking,Delivered,Bangalore,VIP,0.3,9,0,236.89
+ORD100102,CUST1269,2023-12-26,PROD2203,Electrnics,Product_11,2.0,2946.97,Net Banking,Delivered,Bangalore,Regular,0.0,1,0,5893.94
+ORD100103,CUST1350,2023-07-03,PROD2263,Home & Kitchen,Product_66,2.0,2187.75,Cash on Delivery,Returned,Chennai,New,0.27,-5,1,3194.12
+ORD100104,CUST1303,2023-10-08,PROD2177,Fasion,Product_47,2.0,2785.36,Credit Card,Returned,Bangalore,VIP,0.04,5,1,5347.89
+ORD100105,CUST1270,2023-07-14,PROD2083,Beauty,Product_73,2.0,2653.26,Credit Card,Delivered,Mumbai,Regular,0.24,8,0,4032.96
+ORD100106,CUST1455,2023-12-18,PROD2110,Home & Kitchen,Product_85,2.0,,Cash on Delivery,Returned,Chennai,Regular,0.19,7,1,2941.9
+ORD100107,CUST1461,2023-07-14,PROD2250,Toys,Product_88,2.0,3419.62,Credit Card,Delivered,Pune,VIP,0.1,4,0,6155.32
+ORD100108,CUST1214,2023-06-04,PROD2006,Electrnics,Product_98,2.0,3816.66,Net Banking,Delivered,Chennai,Regular,0.26,4,0,5648.66
+ORD100109,CUST1251,2023-04-03,PROD2083,Electrnics,Product_86,2.0,,Cash on Delivery,Returned,Mumbai,New,0.0,6,1,343.36
+ORD100110,CUST1189,2023-06-09,PROD2207,Toys,Product_3,2.0,,Net Banking,Cancelled,Hyderabad,New,0.07,6,0,2074.81
+ORD100111,CUST1295,2023-03-02,PROD2021,Beauty,Product_76,1.0,3594.86,Net Banking,Delivered,Bangalore,New,0.17,9,0,2983.73
+ORD100112,CUST1212,2023-05-02,PROD2002,Books,Product_92,3.0,1994.44,Credit Card,Delivered,Delhi,VIP,0.11,-5,0,5325.15
+ORD100113,CUST1207,2023-02-20,PROD2126,Books,Product_30,2.0,3346.17,Credit Card,Returned,Pune,Regular,0.18,8,1,5487.72
+ORD100114,CUST1236,2023-10-04,PROD2296,Electrnics,Product_90,3.0,1800.12,Net Banking,Delivered,Delhi,Regular,0.01,5,0,5346.36
+ORD100115,CUST1337,2023-01-05,PROD2187,Electrnics,Product_21,2.0,2014.7,Credit Card,Cancelled,Delhi,VIP,0.03,2,0,3908.52
+ORD100116,CUST1366,2023-04-02,PROD2013,Electrnics,Product_28,2.0,,Cash on Delivery,,Delhi,New,0.04,6,1,1684.86
+ORD100117,CUST1052,2023-06-19,PROD2011,Home & Kitchen,Product_90,1.0,1365.33,Net Banking,,Bangalore,VIP,0.06,9,0,1283.41
+ORD100118,CUST1279,2023-11-13,PROD2086,Home & Kitchen,Product_62,4.0,3066.52,UPI,Returned,Bangalore,VIP,0.14,3,1,10548.83
+ORD100119,CUST1409,2023-01-22,PROD2011,Toys,Product_33,,2222.5,UPI,Cancelled,Mumbai,New,0.23,1,0,6845.3
+ORD100120,CUST1216,2023-11-22,PROD2024,Home & Kitchen,Product_85,1.0,3894.08,UPI,Returned,Pune,VIP,0.27,1,1,2842.68
+ORD100121,CUST1251,2023-01-01,PROD2242,Books,Product_35,3.0,4277.67,Cash on Delivery,Returned,Pune,Regular,0.25,3,1,9624.76
+ORD100122,CUST1187,2023-05-13,PROD2121,Home & Kitchen,Product_52,4.0,2754.07,Net Banking,Returned,Chennai,Regular,0.06,5,1,10355.3
+ORD100123,CUST1379,2023-08-21,PROD2146,Electrnics,Product_34,1.0,3815.51,UPI,Cancelled,Chennai,VIP,0.13,3,0,3319.49
+ORD100124,CUST1492,2023-01-12,PROD2054,Beauty,Product_41,1.0,1603.83,Net Banking,Delivered,Chennai,VIP,0.06,9,0,1507.6
+ORD100125,CUST1040,2023-12-12,PROD2237,Electrnics,Product_51,4.0,2133.36,Cash on Delivery,Delivered,Chennai,VIP,0.08,8,0,7850.76
+ORD100126,CUST1156,2023-02-15,PROD2172,Home & Kitchen,Product_47,3.0,3592.61,Net Banking,Delivered,Bangalore,VIP,0.15,3,0,9161.16
+ORD100127,CUST1014,2023-02-03,PROD2220,Toys,Product_82,1.0,1992.44,Net Banking,Cancelled,Pune,New,0.02,9,0,1952.59
+ORD100128,CUST1300,2023-03-19,PROD2118,Fasion,Product_58,,2983.67,UPI,Delivered,Bangalore,New,0.07,6,0,5549.63
+ORD100129,CUST1064,2023-08-06,PROD2182,Beauty,Product_75,3.0,1008.33,Cash on Delivery,Returned,Hyderabad,Regular,0.28,7,1,-100.0
+ORD100130,CUST1344,2023-10-28,PROD2287,Books,Product_57,3.0,3038.88,Cash on Delivery,Cancelled,Chennai,Regular,0.14,4,0,7840.31
+ORD100131,CUST1326,2023-03-14,PROD2299,Home & Kitchen,Product_23,4.0,4321.42,Net Banking,Returned,Bangalore,VIP,0.13,4,1,15038.54
+ORD100132,CUST1008,2023-10-09,PROD2081,Electrnics,Product_48,4.0,4356.33,UPI,Cancelled,Bangalore,VIP,0.0,2,0,17425.32
+ORD100133,CUST1343,2023-09-06,PROD2210,Home & Kitchen,Product_22,2.0,3649.29,Net Banking,Delivered,Delhi,VIP,0.07,5,0,6787.68
+ORD100134,CUST1128,2023-02-16,PROD2149,Books,Product_17,1.0,3754.19,Net Banking,Returned,Hyderabad,Regular,0.26,8,1,2778.1
+ORD100135,CUST1491,2023-05-01,PROD2036,Beauty,Product_69,4.0,2833.84,Cash on Delivery,Cancelled,Chennai,Regular,0.05,7,0,10768.59
+ORD100136,CUST1135,2023-08-02,PROD2058,Fasion,Product_11,4.0,2964.87,Net Banking,Returned,Chennai,New,0.12,7,1,10436.34
+ORD100137,CUST1471,2023-08-27,PROD2130,Fasion,Product_94,3.0,754.89,Net Banking,Delivered,Pune,New,0.0,6,0,2264.67
+ORD100138,CUST1062,2023-02-25,PROD2201,Beauty,Product_15,4.0,2274.91,Credit Card,Delivered,Hyderabad,VIP,0.14,3,0,-100.0
+ORD100139,CUST1138,2023-12-16,PROD2242,Beauty,Product_91,,2308.8,Cash on Delivery,Cancelled,Mumbai,New,0.01,5,0,9142.85
+ORD100140,CUST1498,2023-04-17,PROD2034,Books,Product_35,4.0,4796.64,UPI,Delivered,Hyderabad,Regular,0.25,1,0,14389.92
+ORD100141,CUST1080,2023-11-15,PROD2092,Fasion,Product_33,4.0,,Net Banking,Returned,Bangalore,VIP,0.25,7,1,6636.99
+ORD100142,CUST1391,2023-02-17,PROD2206,Electrnics,Product_84,3.0,2791.78,Cash on Delivery,Returned,Chennai,Regular,0.24,9,1,6365.26
+ORD100143,CUST1162,2023-03-02,PROD2212,Home & Kitchen,Product_16,2.0,2712.93,Net Banking,Delivered,Hyderabad,Regular,0.09,1,0,4937.53
+ORD100144,CUST1418,2023-12-03,PROD2158,Electrnics,Product_34,2.0,3220.13,UPI,Cancelled,Pune,VIP,0.25,2,0,4830.2
+ORD100145,CUST1288,2023-01-26,PROD2023,Fasion,Product_66,1.0,3766.34,UPI,Returned,Delhi,VIP,0.16,3,1,3163.73
+ORD100146,CUST1378,2023-10-19,PROD2292,Toys,Product_99,4.0,1202.71,UPI,Returned,Hyderabad,New,0.11,3,1,4281.65
+ORD100147,CUST1260,2023-09-14,PROD2003,Toys,Product_40,3.0,2690.75,Credit Card,Cancelled,Hyderabad,New,0.19,8,0,6538.52
+ORD100148,CUST1489,2023-01-08,PROD2219,Books,Product_28,1.0,4147.0,Net Banking,Returned,Chennai,VIP,0.0,7,1,4147.0
+ORD100149,CUST1230,2023-04-23,PROD2019,Fasion,Product_47,1.0,2369.26,Net Banking,Delivered,Pune,VIP,0.04,6,0,2274.49
+ORD100150,CUST1040,2023-12-21,PROD2151,Fasion,Product_39,,1464.44,Credit Card,Delivered,Mumbai,Regular,0.22,4,0,2284.53
+ORD100151,CUST1027,2023-09-10,PROD2049,Books,Product_70,3.0,3308.07,Credit Card,Returned,Mumbai,VIP,0.07,9,1,9229.52
+ORD100152,CUST1134,2023-06-29,PROD2176,Toys,Product_73,3.0,4136.46,Credit Card,Delivered,Chennai,New,0.18,1,0,10175.69
+ORD100153,CUST1200,2023-07-26,PROD2095,Home & Kitchen,Product_20,3.0,409.39,Net Banking,Delivered,Delhi,Regular,0.12,2,0,1080.79
+ORD100154,CUST1327,2023-10-30,PROD2104,Home & Kitchen,Product_1,2.0,3906.27,UPI,Cancelled,Delhi,New,0.26,4,0,5781.28
+ORD100155,CUST1267,2023-05-07,PROD2249,Toys,Product_72,2.0,4126.07,Net Banking,,Pune,VIP,0.29,3,0,5859.02
+ORD100156,CUST1417,2023-02-25,PROD2116,Home & Kitchen,Product_87,2.0,2361.46,Net Banking,Cancelled,Pune,VIP,0.27,1,0,3447.73
+ORD100157,CUST1032,2023-08-02,PROD2227,Electrnics,Product_63,2.0,4918.2,Credit Card,Delivered,Bangalore,New,0.08,5,0,9049.49
+ORD100158,CUST1047,2023-01-14,PROD2065,Beauty,Product_67,2.0,3954.87,UPI,Cancelled,Delhi,VIP,0.06,7,0,7435.16
+ORD100159,CUST1406,2023-01-28,PROD2261,Books,Product_4,4.0,3890.95,Cash on Delivery,Delivered,Mumbai,VIP,0.14,2,0,13384.87
+ORD100160,CUST1061,2023-03-19,PROD2294,Electrnics,Product_58,4.0,3764.41,Credit Card,Delivered,Hyderabad,New,0.0,5,0,15057.64
+ORD100161,CUST1215,2023-08-04,PROD2242,Beauty,Product_25,,837.98,UPI,Returned,Bangalore,New,0.01,6,1,2488.8
+ORD100162,CUST1292,2023-12-31,PROD2185,Books,Product_47,1.0,1164.43,Credit Card,Delivered,Hyderabad,New,0.17,7,0,966.48
+ORD100163,CUST1098,2023-06-03,PROD2245,Home & Kitchen,Product_38,3.0,2373.55,Cash on Delivery,Delivered,Mumbai,New,0.16,1,0,-100.0
+ORD100164,CUST1171,2023-01-14,PROD2124,Toys,Product_15,1.0,1393.62,Cash on Delivery,Delivered,Pune,Regular,0.3,7,0,975.53
+ORD100165,CUST1359,2023-07-06,PROD2267,Books,Product_63,2.0,2134.68,Credit Card,Returned,Mumbai,New,0.06,4,1,4013.2
+ORD100166,CUST1213,2023-11-08,PROD2130,Toys,Product_21,1.0,4453.47,Net Banking,Returned,Bangalore,Regular,0.08,8,1,4097.19
+ORD100167,CUST1474,2023-01-07,PROD2236,Fasion,Product_99,3.0,,UPI,Returned,Chennai,Regular,0.03,4,1,12045.07
+ORD100168,CUST1034,2023-01-03,PROD2017,Home & Kitchen,Product_57,3.0,3187.2,Credit Card,Cancelled,Delhi,New,0.28,-5,0,6884.35
+ORD100169,CUST1448,2023-04-21,PROD2039,Books,Product_53,1.0,4304.79,Cash on Delivery,Cancelled,Bangalore,New,0.23,9,0,3314.69
+ORD100170,CUST1226,2023-08-26,PROD2020,Home & Kitchen,Product_46,,3940.48,Net Banking,Returned,Bangalore,VIP,0.25,5,1,11821.44
+ORD100171,CUST1100,2023-12-29,PROD2224,Fasion,Product_14,2.0,2202.03,Net Banking,Cancelled,Chennai,Regular,0.27,4,0,3214.96
+ORD100172,CUST1430,2023-08-27,PROD2281,Books,Product_76,2.0,1085.22,Cash on Delivery,Cancelled,Bangalore,Regular,0.16,-5,0,1823.17
+ORD100173,CUST1461,2023-10-01,PROD2007,Beauty,Product_17,3.0,2619.59,Net Banking,Cancelled,Hyderabad,VIP,0.14,9,0,6758.54
+ORD100174,CUST1130,2023-10-21,PROD2099,Electrnics,Product_39,4.0,3707.52,UPI,Returned,Mumbai,VIP,0.1,4,1,13347.07
+ORD100175,CUST1256,2023-08-15,PROD2239,Fasion,Product_9,1.0,2238.46,Net Banking,Cancelled,Chennai,New,0.18,3,0,1835.54
+ORD100176,CUST1004,2023-01-15,PROD2086,Toys,Product_99,2.0,3367.18,UPI,Returned,Pune,New,0.14,8,1,5791.55
+ORD100177,CUST1217,2023-07-11,PROD2297,Electrnics,Product_77,4.0,562.2,Cash on Delivery,Returned,Delhi,Regular,0.14,5,1,1933.97
+ORD100178,CUST1254,2023-04-29,PROD2013,Home & Kitchen,Product_79,2.0,3765.22,Net Banking,Cancelled,Bangalore,VIP,0.28,2,0,5421.92
+ORD100179,CUST1397,2023-01-28,PROD2001,Fasion,Product_82,4.0,4082.3,Credit Card,Returned,Mumbai,New,0.3,9,1,11430.44
+ORD100180,CUST1358,2023-07-21,PROD2292,Electrnics,Product_97,4.0,3563.51,Cash on Delivery,Delivered,Delhi,VIP,0.24,3,0,10833.07
+ORD100181,CUST1282,2023-02-08,PROD2040,Electrnics,Product_6,3.0,4839.59,UPI,Returned,Delhi,VIP,0.23,2,1,11179.45
+ORD100182,CUST1392,2023-09-30,PROD2110,Fasion,Product_91,2.0,4150.6,UPI,Returned,Mumbai,New,0.2,-5,1,6640.96
+ORD100183,CUST1206,2023-08-19,PROD2013,Home & Kitchen,Product_23,1.0,4525.16,Net Banking,Cancelled,Chennai,Regular,0.05,8,0,4298.9
+ORD100184,CUST1014,2023-03-27,PROD2230,Electrnics,Product_59,,4674.5,UPI,Delivered,Hyderabad,Regular,0.02,3,0,13743.03
+ORD100185,CUST1345,2023-05-06,PROD2083,Beauty,Product_91,3.0,4026.61,Credit Card,Cancelled,Bangalore,VIP,0.21,7,0,9543.07
+ORD100186,CUST1041,2023-10-27,PROD2129,Toys,Product_98,1.0,3403.87,Net Banking,Cancelled,Delhi,VIP,0.22,1,0,2655.02
+ORD100187,CUST1379,2023-01-25,PROD2230,Home & Kitchen,Product_46,3.0,128.02,Credit Card,Delivered,Pune,Regular,0.01,1,0,380.22
+ORD100188,CUST1460,2023-05-25,PROD2144,Beauty,Product_38,4.0,2382.55,UPI,Delivered,Bangalore,New,0.28,9,0,6861.74
+ORD100189,CUST1178,2023-01-13,PROD2027,Books,Product_14,4.0,2898.7,Net Banking,Delivered,Hyderabad,New,0.03,8,0,11246.96
+ORD100190,CUST1062,2023-07-31,PROD2065,Home & Kitchen,Product_72,2.0,1589.75,Credit Card,Delivered,Hyderabad,New,0.09,3,0,2893.34
+ORD100191,CUST1351,2023-01-25,PROD2162,Toys,Product_62,2.0,1658.71,Net Banking,Delivered,Delhi,New,0.2,6,0,2653.94
+ORD100192,CUST1230,2023-03-09,PROD2228,Beauty,Product_35,1.0,4809.68,Net Banking,Cancelled,Hyderabad,New,0.05,3,0,4569.2
+ORD100193,CUST1240,2023-03-08,PROD2260,Beauty,Product_19,2.0,4469.38,UPI,Cancelled,Mumbai,New,0.02,4,0,8759.98
+ORD100194,CUST1051,2023-08-21,PROD2163,Books,Product_30,4.0,4260.98,Net Banking,Delivered,Hyderabad,New,0.1,1,0,15339.53
+ORD100195,CUST1095,2023-04-19,PROD2286,Home & Kitchen,Product_78,1.0,2089.46,Cash on Delivery,Delivered,Hyderabad,VIP,0.23,5,0,1608.88
+ORD100196,CUST1387,2023-05-26,PROD2009,Books,Product_84,1.0,167.12,UPI,Delivered,Chennai,VIP,0.12,1,0,147.07
+ORD100197,CUST1221,2023-04-21,PROD2194,Home & Kitchen,Product_25,2.0,493.09,UPI,,Hyderabad,New,0.2,1,1,788.94
+ORD100198,CUST1484,2023-08-16,PROD2117,Toys,Product_40,4.0,1629.76,Credit Card,Delivered,Delhi,VIP,0.17,7,0,5410.8
+ORD100199,CUST1406,2023-04-21,PROD2269,Toys,Product_88,1.0,177.14,Net Banking,Returned,Hyderabad,VIP,0.01,-5,1,175.37
+ORD100200,CUST1230,2023-02-03,PROD2079,Electrnics,Product_14,4.0,184.03,Credit Card,Returned,Mumbai,VIP,0.3,-5,1,515.28
+ORD100201,CUST1236,2023-04-21,PROD2092,Toys,Product_26,4.0,4591.36,Cash on Delivery,Returned,Chennai,New,0.01,2,1,18181.79
+ORD100202,CUST1142,2023-09-21,PROD2265,Fasion,Product_87,4.0,3560.18,Credit Card,Cancelled,Pune,New,0.29,7,0,10110.91
+ORD100203,CUST1170,2023-08-24,PROD2256,Electrnics,Product_22,2.0,1613.88,Cash on Delivery,Returned,Mumbai,New,0.16,1,1,2711.32
+ORD100204,CUST1028,2023-03-24,PROD2132,Fasion,Product_48,3.0,749.96,UPI,Delivered,Delhi,Regular,0.29,2,0,1597.41
+ORD100205,CUST1035,2023-02-11,PROD2275,Toys,Product_83,3.0,2607.02,Cash on Delivery,Cancelled,Hyderabad,New,0.03,8,0,7586.43
+ORD100206,CUST1012,2023-04-11,PROD2263,Home & Kitchen,Product_51,1.0,,Cash on Delivery,Cancelled,Mumbai,VIP,0.15,6,0,107.27
+ORD100207,CUST1159,2023-01-06,PROD2170,Electrnics,Product_3,4.0,4698.23,UPI,Delivered,Bangalore,VIP,0.05,2,0,17853.27
+ORD100208,CUST1326,2023-06-29,PROD2000,Electrnics,Product_42,2.0,2132.59,Cash on Delivery,Delivered,Bangalore,New,0.02,7,0,4179.88
+ORD100209,CUST1186,2023-10-09,PROD2063,Electrnics,Product_19,4.0,2071.44,Net Banking,Returned,Chennai,New,0.19,4,1,-100.0
+ORD100210,CUST1242,2023-11-16,PROD2283,Beauty,Product_73,4.0,2013.91,Credit Card,Returned,Delhi,Regular,0.06,2,1,7572.3
+ORD100211,CUST1085,2023-08-14,PROD2120,Toys,Product_28,2.0,439.71,Credit Card,Delivered,Hyderabad,VIP,0.18,6,0,721.12
+ORD100212,CUST1283,2023-11-11,PROD2106,Toys,Product_84,3.0,3227.78,Cash on Delivery,Returned,Delhi,Regular,0.03,9,1,-100.0
+ORD100213,CUST1065,2023-12-31,PROD2174,Toys,Product_45,4.0,3691.72,Cash on Delivery,Returned,Hyderabad,VIP,0.1,9,1,13290.19
+ORD100214,CUST1169,2023-08-17,PROD2203,Home & Kitchen,Product_71,4.0,3413.01,Credit Card,Delivered,Chennai,VIP,0.23,8,0,10512.07
+ORD100215,CUST1044,2023-10-16,PROD2164,Beauty,Product_78,3.0,778.33,Cash on Delivery,Delivered,Bangalore,New,0.13,3,0,2031.44
+ORD100216,CUST1061,2023-05-30,PROD2119,Electrnics,Product_63,2.0,2936.32,UPI,Delivered,Delhi,New,0.19,3,0,4756.84
+ORD100217,CUST1440,2023-10-04,PROD2043,Home & Kitchen,Product_73,1.0,2890.47,Credit Card,Returned,Chennai,Regular,0.19,2,1,2341.28
+ORD100218,CUST1133,2023-07-17,PROD2155,Fasion,Product_19,3.0,4355.21,Cash on Delivery,,Delhi,New,0.25,5,0,9799.22
+ORD100219,CUST1283,2023-03-11,PROD2206,Beauty,Product_47,,1957.73,Net Banking,Returned,Delhi,Regular,0.1,4,1,-100.0
+ORD100220,CUST1027,2023-04-22,PROD2107,Toys,Product_14,1.0,1920.28,UPI,Cancelled,Bangalore,VIP,0.21,7,0,1517.02
+ORD100221,CUST1107,2023-01-04,PROD2250,Fasion,Product_38,3.0,3130.78,Cash on Delivery,Delivered,Delhi,Regular,0.29,4,0,6668.56
+ORD100222,CUST1043,2023-12-16,PROD2129,Beauty,Product_53,4.0,3202.06,Cash on Delivery,Returned,Chennai,VIP,0.22,-5,1,9990.43
+ORD100223,CUST1339,2023-11-27,PROD2292,Fasion,Product_61,1.0,2399.5,Credit Card,Returned,Delhi,Regular,0.15,2,1,2039.58
+ORD100224,CUST1285,2023-11-14,PROD2019,Beauty,Product_36,1.0,2270.99,UPI,Cancelled,Mumbai,Regular,0.19,6,0,1839.5
+ORD100225,CUST1445,2023-12-16,PROD2281,Fasion,Product_40,2.0,2521.32,Net Banking,Delivered,Pune,New,0.22,7,0,3933.26
+ORD100226,CUST1330,2023-04-05,PROD2284,Fasion,Product_81,4.0,4319.12,Net Banking,Delivered,Pune,New,0.18,4,0,14166.71
+ORD100227,CUST1127,2023-06-01,PROD2000,Beauty,Product_30,1.0,2359.72,UPI,Returned,Hyderabad,Regular,0.01,6,1,2336.12
+ORD100228,CUST1347,2023-11-07,PROD2118,Electrnics,Product_9,2.0,4705.67,Credit Card,Cancelled,Chennai,New,0.06,7,0,8846.66
+ORD100229,CUST1472,2023-05-17,PROD2034,Electrnics,Product_64,4.0,2569.62,Credit Card,,Hyderabad,Regular,0.24,4,1,7811.64
+ORD100230,CUST1230,2023-09-04,PROD2197,Home & Kitchen,Product_33,3.0,4751.08,Cash on Delivery,Cancelled,Hyderabad,Regular,0.08,8,0,13112.98
+ORD100231,CUST1189,2023-08-31,PROD2244,Books,Product_52,3.0,4180.88,Cash on Delivery,Returned,Bangalore,VIP,0.22,9,1,9783.26
+ORD100232,CUST1224,2023-01-31,PROD2058,Electrnics,Product_89,2.0,1875.91,Net Banking,Returned,Delhi,New,0.11,1,1,3339.12
+ORD100233,CUST1384,2023-02-09,PROD2160,Books,Product_14,3.0,4331.84,Cash on Delivery,Returned,Bangalore,Regular,0.16,7,1,10916.24
+ORD100234,CUST1376,2023-08-17,PROD2178,Electrnics,Product_75,1.0,639.31,UPI,Delivered,Hyderabad,New,0.02,9,0,626.52
+ORD100235,CUST1282,2023-02-05,PROD2205,Books,Product_53,4.0,4632.73,UPI,Delivered,Delhi,VIP,0.05,5,0,17604.37
+ORD100236,CUST1445,2023-08-11,PROD2011,Books,Product_99,1.0,3195.05,Cash on Delivery,Cancelled,Mumbai,Regular,0.29,2,0,2268.49
+ORD100237,CUST1120,2023-01-06,PROD2275,Fasion,Product_59,1.0,366.51,Cash on Delivery,Cancelled,Delhi,New,0.27,6,0,267.55
+ORD100238,CUST1115,2023-11-18,PROD2180,Beauty,Product_78,3.0,3256.86,Net Banking,Returned,Pune,VIP,0.2,7,1,7816.46
+ORD100239,CUST1460,2023-08-08,PROD2241,Home & Kitchen,Product_94,1.0,4873.81,Cash on Delivery,Cancelled,Chennai,New,0.14,2,0,4191.48
+ORD100240,CUST1232,2023-03-16,PROD2215,Beauty,Product_41,,,Net Banking,Returned,Hyderabad,Regular,0.2,2,1,1060.85
+ORD100241,CUST1258,2023-01-04,PROD2250,Electrnics,Product_68,4.0,2817.97,UPI,,Bangalore,Regular,0.19,1,1,9130.22
+ORD100242,CUST1358,2023-12-01,PROD2298,Electrnics,Product_68,4.0,3764.19,UPI,Delivered,Hyderabad,VIP,0.17,4,0,12497.11
+ORD100243,CUST1197,2023-05-14,PROD2125,Toys,Product_92,1.0,4070.27,UPI,Delivered,Bangalore,Regular,0.02,7,0,3988.86
+ORD100244,CUST1455,2023-04-28,PROD2216,Toys,Product_8,2.0,2127.75,Net Banking,Returned,Bangalore,New,0.19,9,1,3446.96
+ORD100245,CUST1410,2023-04-04,PROD2284,Beauty,Product_2,3.0,1100.42,Credit Card,Returned,Delhi,Regular,0.23,3,1,2541.97
+ORD100246,CUST1136,2023-03-03,PROD2184,Home & Kitchen,Product_86,,307.48,Cash on Delivery,Delivered,Hyderabad,New,0.3,7,0,645.71
+ORD100247,CUST1317,2023-07-13,PROD2038,Beauty,Product_41,1.0,2940.66,UPI,Returned,Bangalore,VIP,0.0,7,1,2940.66
+ORD100248,CUST1164,2023-12-01,PROD2222,Toys,Product_55,3.0,2319.26,UPI,Returned,Hyderabad,Regular,0.22,7,1,5427.07
+ORD100249,CUST1224,2023-07-22,PROD2183,Fasion,Product_16,3.0,4748.85,Cash on Delivery,Delivered,Bangalore,New,0.17,2,0,11824.64
+ORD100250,CUST1306,2023-01-26,PROD2177,Books,Product_93,2.0,396.96,Cash on Delivery,Returned,Pune,New,0.13,6,1,690.71
+ORD100251,CUST1233,2023-06-22,PROD2293,Home & Kitchen,Product_62,2.0,,UPI,,Mumbai,VIP,0.04,2,1,6640.2
+ORD100252,CUST1171,2023-10-27,PROD2150,Electrnics,Product_48,1.0,222.33,UPI,Cancelled,Delhi,VIP,0.12,6,0,195.65
+ORD100253,CUST1151,2023-05-13,PROD2125,Toys,Product_30,2.0,940.03,Credit Card,Returned,Mumbai,New,0.11,3,1,1673.25
+ORD100254,CUST1462,2023-11-22,PROD2233,Toys,Product_12,1.0,2322.54,Cash on Delivery,Delivered,Bangalore,Regular,0.09,2,0,2113.51
+ORD100255,CUST1314,2023-04-28,PROD2007,Toys,Product_35,4.0,2328.87,Net Banking,Cancelled,Mumbai,VIP,0.22,6,0,7266.07
+ORD100256,CUST1373,2023-11-20,PROD2128,Beauty,Product_11,1.0,3459.93,Cash on Delivery,Cancelled,Hyderabad,Regular,0.21,2,0,2733.34
+ORD100257,CUST1159,2023-10-02,PROD2263,Electrnics,Product_64,4.0,4560.04,Credit Card,Delivered,Mumbai,New,0.18,5,0,14956.93
+ORD100258,CUST1095,2023-07-31,PROD2156,Fasion,Product_50,1.0,3231.26,Cash on Delivery,Delivered,Mumbai,VIP,0.28,2,0,2326.51
+ORD100259,CUST1471,2023-08-13,PROD2004,Electrnics,Product_85,3.0,4772.32,Net Banking,Delivered,Hyderabad,New,0.1,3,0,12885.26
+ORD100260,CUST1232,2023-01-20,PROD2085,Electrnics,Product_21,2.0,4419.92,UPI,Cancelled,Chennai,Regular,0.07,3,0,8221.05
+ORD100261,CUST1179,2023-04-23,PROD2174,Home & Kitchen,Product_69,4.0,2964.05,Cash on Delivery,Cancelled,Chennai,Regular,0.2,6,0,9484.96
+ORD100262,CUST1112,2023-05-20,PROD2289,Toys,Product_48,1.0,4185.58,Net Banking,Returned,Mumbai,VIP,0.06,6,1,3934.45
+ORD100263,CUST1317,2023-02-16,PROD2192,Toys,Product_20,2.0,3248.63,UPI,Cancelled,Pune,Regular,0.09,3,0,5912.51
+ORD100264,CUST1496,2023-01-01,PROD2118,Beauty,Product_67,1.0,484.93,Credit Card,Returned,Hyderabad,New,0.07,3,1,450.98
+ORD100265,CUST1441,2023-03-31,PROD2217,Beauty,Product_44,2.0,,Cash on Delivery,Delivered,Hyderabad,Regular,0.02,1,0,7308.39
+ORD100266,CUST1051,2023-05-22,PROD2113,Beauty,Product_33,,565.05,Cash on Delivery,Delivered,Chennai,VIP,0.25,7,0,847.58
+ORD100267,CUST1267,2023-11-16,PROD2144,Toys,Product_73,1.0,,UPI,Delivered,Mumbai,Regular,0.08,8,0,2770.13
+ORD100268,CUST1294,2023-02-07,PROD2025,Home & Kitchen,Product_61,4.0,3542.94,UPI,Delivered,Chennai,New,0.14,2,0,12187.71
+ORD100269,CUST1385,2023-10-20,PROD2135,Fasion,Product_9,4.0,425.99,Cash on Delivery,Returned,Mumbai,New,0.01,4,1,1686.92
+ORD100270,CUST1386,2023-05-19,PROD2231,Home & Kitchen,Product_68,3.0,1230.89,UPI,Cancelled,Hyderabad,Regular,0.21,7,0,2917.21
+ORD100271,CUST1112,2023-12-22,PROD2075,Books,Product_35,2.0,4586.79,Cash on Delivery,Delivered,Chennai,Regular,0.1,8,0,8256.22
+ORD100272,CUST1100,2023-11-29,PROD2288,Electrnics,Product_81,3.0,3119.94,Cash on Delivery,Returned,Mumbai,Regular,0.22,1,1,7300.66
+ORD100273,CUST1112,2023-09-16,PROD2000,Electrnics,Product_98,3.0,1306.8,Credit Card,Returned,Chennai,Regular,0.12,4,1,3449.95
+ORD100274,CUST1439,2023-06-10,PROD2146,Electrnics,Product_88,1.0,3484.33,Credit Card,Cancelled,Bangalore,New,0.06,6,0,3275.27
+ORD100275,CUST1080,2023-06-27,PROD2286,Home & Kitchen,Product_96,1.0,3024.2,UPI,Delivered,Chennai,Regular,0.15,-5,0,2570.57
+ORD100276,CUST1186,2023-01-10,PROD2141,Fasion,Product_65,1.0,2557.72,Net Banking,,Chennai,Regular,0.04,5,0,2455.41
+ORD100277,CUST1112,2023-09-18,PROD2052,Fasion,Product_8,2.0,4883.32,Cash on Delivery,Returned,Bangalore,VIP,0.13,9,1,8496.98
+ORD100278,CUST1001,2023-05-18,PROD2068,Books,Product_45,1.0,3448.92,UPI,Delivered,Chennai,New,0.1,3,0,3104.03
+ORD100279,CUST1129,2023-06-21,PROD2089,Beauty,Product_87,1.0,1939.66,UPI,Returned,Delhi,Regular,0.27,5,1,1415.95
+ORD100280,CUST1219,2023-01-13,PROD2219,Beauty,Product_47,2.0,4020.36,Net Banking,Delivered,Chennai,Regular,0.02,8,0,7879.91
+ORD100281,CUST1053,2023-06-17,PROD2191,Books,Product_40,2.0,4434.46,Cash on Delivery,,Delhi,New,0.21,6,0,7006.45
+ORD100282,CUST1342,2023-05-10,PROD2062,Electrnics,Product_76,4.0,713.58,Net Banking,Delivered,Pune,New,0.05,4,0,2711.6
+ORD100283,CUST1484,2023-03-25,PROD2072,Electrnics,Product_54,1.0,1082.71,UPI,Returned,Delhi,New,0.1,8,1,974.44
+ORD100284,CUST1223,2023-11-17,PROD2160,Electrnics,Product_76,1.0,,UPI,,Bangalore,New,0.12,3,0,1020.37
+ORD100285,CUST1224,2023-11-15,PROD2168,Fasion,Product_46,1.0,3486.94,Net Banking,Delivered,Delhi,Regular,0.27,3,0,2545.47
+ORD100286,CUST1384,2023-04-11,PROD2088,Toys,Product_47,4.0,3054.89,Net Banking,,Mumbai,New,0.07,4,0,11364.19
+ORD100287,CUST1402,2023-11-25,PROD2175,Beauty,Product_15,1.0,3133.06,Net Banking,Delivered,Mumbai,Regular,0.03,9,0,3039.07
+ORD100288,CUST1125,2023-09-30,PROD2268,Electrnics,Product_19,4.0,4709.79,Credit Card,Delivered,Mumbai,VIP,0.1,5,0,16955.24
+ORD100289,CUST1129,2023-09-22,PROD2072,Home & Kitchen,Product_26,3.0,3901.97,Cash on Delivery,Returned,Chennai,New,0.03,8,1,11354.73
+ORD100290,CUST1052,2023-02-07,PROD2244,Beauty,Product_52,4.0,726.89,Credit Card,Cancelled,Hyderabad,Regular,0.04,6,0,2791.26
+ORD100291,CUST1171,2023-04-04,PROD2076,Electrnics,Product_93,3.0,1802.78,Net Banking,Cancelled,Delhi,New,0.17,3,0,4488.92
+ORD100292,CUST1217,2023-04-05,PROD2158,Beauty,Product_22,1.0,2233.43,Net Banking,Returned,Hyderabad,New,0.02,8,1,2188.76
+ORD100293,CUST1159,2023-11-01,PROD2097,Electrnics,Product_21,3.0,,Credit Card,Cancelled,Pune,New,0.01,-5,0,6059.42
+ORD100294,CUST1197,2023-03-10,PROD2101,Home & Kitchen,Product_51,4.0,3379.61,Credit Card,,Bangalore,New,0.21,8,0,10679.57
+ORD100295,CUST1415,2023-11-14,PROD2131,Books,Product_38,2.0,4470.28,UPI,Delivered,Hyderabad,New,0.11,4,0,7957.1
+ORD100296,CUST1246,2023-08-24,PROD2101,Fasion,Product_20,3.0,1599.65,Credit Card,Delivered,Chennai,New,0.04,6,0,4606.99
+ORD100297,CUST1323,2023-11-30,PROD2018,Electrnics,Product_29,,2804.2,Cash on Delivery,Cancelled,Mumbai,Regular,0.08,1,0,-100.0
+ORD100298,CUST1438,2023-05-17,PROD2081,Beauty,Product_51,1.0,3968.11,Cash on Delivery,Delivered,Bangalore,Regular,0.19,4,0,3214.17
+ORD100299,CUST1202,2023-03-17,PROD2278,Electrnics,Product_4,4.0,,Cash on Delivery,Delivered,Delhi,Regular,0.08,8,0,7873.25
+ORD100300,CUST1183,2023-02-04,PROD2128,Toys,Product_55,,923.78,Net Banking,Cancelled,Bangalore,New,0.15,1,0,2355.64
+ORD100301,CUST1122,2023-01-01,PROD2088,Fasion,Product_71,,2427.26,UPI,Returned,Pune,New,0.04,3,1,6990.51
+ORD100302,CUST1400,2023-10-23,PROD2212,Fasion,Product_92,3.0,370.59,Credit Card,Delivered,Pune,VIP,0.18,1,0,911.65
+ORD100303,CUST1254,2023-11-16,PROD2142,Beauty,Product_28,,4717.68,UPI,,Mumbai,Regular,0.09,9,1,12879.27
+ORD100304,CUST1293,2023-03-01,PROD2064,Toys,Product_4,,466.62,Net Banking,Delivered,Delhi,VIP,0.19,2,0,755.92
+ORD100305,CUST1279,2023-11-16,PROD2075,Beauty,Product_22,4.0,2248.44,Net Banking,Cancelled,Delhi,Regular,0.24,9,0,6835.26
+ORD100306,CUST1324,2023-12-15,PROD2198,Beauty,Product_76,1.0,,Credit Card,Cancelled,Mumbai,New,0.18,4,0,2211.06
+ORD100307,CUST1371,2023-11-24,PROD2142,Fasion,Product_45,,4927.99,Credit Card,Cancelled,Mumbai,New,0.09,2,0,4484.47
+ORD100308,CUST1097,2023-09-24,PROD2092,Toys,Product_67,2.0,913.51,Credit Card,Cancelled,Delhi,VIP,0.08,4,0,1680.86
+ORD100309,CUST1197,2023-12-27,PROD2223,Toys,Product_86,4.0,660.71,Net Banking,Delivered,Chennai,VIP,0.1,6,0,2378.56
+ORD100310,CUST1469,2023-08-17,PROD2290,Toys,Product_66,3.0,142.66,Credit Card,Delivered,Hyderabad,Regular,0.05,7,0,406.58
+ORD100311,CUST1394,2023-09-27,PROD2101,Beauty,Product_88,,862.3,Net Banking,Delivered,Hyderabad,Regular,0.05,3,0,1638.37
+ORD100312,CUST1239,2023-11-12,PROD2266,Fasion,Product_34,4.0,1115.64,Credit Card,Delivered,Pune,VIP,0.24,3,0,3391.55
+ORD100313,CUST1143,2023-10-13,PROD2109,Books,Product_91,3.0,3189.85,Credit Card,Delivered,Bangalore,VIP,0.12,8,0,8421.2
+ORD100314,CUST1096,2023-10-18,PROD2264,Electrnics,Product_55,2.0,1176.56,UPI,Delivered,Chennai,VIP,0.13,5,0,2047.21
+ORD100315,CUST1200,2023-08-01,PROD2002,Home & Kitchen,Product_1,,,Net Banking,Cancelled,Mumbai,VIP,0.18,4,0,657.8
+ORD100316,CUST1123,2023-06-14,PROD2084,Books,Product_72,1.0,4150.43,UPI,Cancelled,Hyderabad,New,0.18,7,0,3403.35
+ORD100317,CUST1186,2023-01-05,PROD2281,Books,Product_87,,1891.42,Credit Card,Cancelled,Hyderabad,Regular,0.02,7,0,1853.59
+ORD100318,CUST1325,2023-12-05,PROD2116,Electrnics,Product_38,4.0,1833.11,Cash on Delivery,Cancelled,Hyderabad,New,0.25,9,0,5499.33
+ORD100319,CUST1463,2023-03-19,PROD2220,Toys,Product_6,1.0,1582.15,Cash on Delivery,Returned,Mumbai,Regular,0.05,9,1,1503.04
+ORD100320,CUST1348,2023-03-03,PROD2153,Electrnics,Product_86,4.0,4879.33,UPI,Cancelled,Mumbai,New,0.22,5,0,15223.51
+ORD100321,CUST1258,2023-05-12,PROD2152,Fasion,Product_25,3.0,933.57,Net Banking,Cancelled,Delhi,Regular,0.23,8,0,2156.55
+ORD100322,CUST1147,2023-03-30,PROD2011,Electrnics,Product_82,4.0,4501.37,Net Banking,Cancelled,Delhi,VIP,0.21,1,0,14224.33
+ORD100323,CUST1251,2023-08-25,PROD2132,Toys,Product_17,3.0,3906.34,Credit Card,Cancelled,Chennai,New,0.17,9,0,9726.79
+ORD100324,CUST1442,2023-02-11,PROD2292,Electrnics,Product_61,2.0,474.75,Net Banking,Returned,Pune,Regular,0.0,8,1,949.5
+ORD100325,CUST1419,2023-03-30,PROD2299,Toys,Product_12,4.0,4934.97,Net Banking,Returned,Delhi,VIP,0.11,6,1,17568.49
+ORD100326,CUST1402,2023-10-23,PROD2227,Toys,Product_6,2.0,1429.69,Net Banking,Delivered,Bangalore,New,0.18,3,0,2344.69
+ORD100327,CUST1345,2023-11-24,PROD2270,Beauty,Product_90,1.0,583.06,UPI,Cancelled,Bangalore,VIP,0.12,3,0,513.09
+ORD100328,CUST1450,2023-10-22,PROD2042,Home & Kitchen,Product_27,3.0,4163.64,Net Banking,Returned,Bangalore,Regular,0.26,8,1,9243.28
+ORD100329,CUST1146,2023-04-14,PROD2020,Home & Kitchen,Product_8,4.0,3562.71,UPI,Delivered,Delhi,VIP,0.09,5,0,12968.26
+ORD100330,CUST1147,2023-01-14,PROD2106,Beauty,Product_83,2.0,3124.37,UPI,Returned,Mumbai,New,0.09,7,1,5686.35
+ORD100331,CUST1351,2023-10-15,PROD2116,Books,Product_65,3.0,864.31,UPI,Delivered,Delhi,VIP,0.08,5,0,2385.5
+ORD100332,CUST1198,2023-06-28,PROD2123,Fasion,Product_57,3.0,2444.63,UPI,Cancelled,Hyderabad,VIP,0.1,8,0,6600.5
+ORD100333,CUST1307,2023-05-05,PROD2280,Books,Product_93,1.0,3924.72,UPI,,Hyderabad,New,0.17,4,0,3257.52
+ORD100334,CUST1488,2023-12-19,PROD2291,Fasion,Product_99,1.0,1587.76,Net Banking,Returned,Delhi,New,0.21,2,1,1254.33
+ORD100335,CUST1416,2023-01-23,PROD2202,Books,Product_40,3.0,1627.28,Net Banking,Cancelled,Pune,New,0.2,3,0,3905.47
+ORD100336,CUST1423,2023-03-04,PROD2050,Toys,Product_14,3.0,115.39,Net Banking,,Mumbai,Regular,0.24,8,1,263.09
+ORD100337,CUST1127,2023-05-23,PROD2270,Home & Kitchen,Product_35,4.0,953.79,UPI,Returned,Hyderabad,VIP,0.27,7,1,2785.07
+ORD100338,CUST1038,2023-06-02,PROD2276,Fasion,Product_48,3.0,4389.49,UPI,Cancelled,Pune,Regular,0.24,2,0,10008.04
+ORD100339,CUST1337,2023-05-25,PROD2140,Fasion,Product_84,4.0,2264.56,Credit Card,Returned,Chennai,Regular,0.01,6,1,8967.66
+ORD100340,CUST1359,2023-08-13,PROD2274,Toys,Product_56,3.0,4922.75,Cash on Delivery,Delivered,Hyderabad,Regular,0.22,9,0,-100.0
+ORD100341,CUST1128,2023-11-05,PROD2289,Fasion,Product_49,1.0,2038.97,Credit Card,Returned,Pune,New,0.06,4,1,1916.63
+ORD100342,CUST1266,2023-04-14,PROD2051,Home & Kitchen,Product_13,4.0,3604.41,Credit Card,Cancelled,Chennai,New,0.04,9,0,13840.93
+ORD100343,CUST1475,2023-04-14,PROD2026,Toys,Product_61,2.0,1481.4,Net Banking,Returned,Delhi,New,0.19,2,1,2399.87
+ORD100344,CUST1440,2023-02-08,PROD2156,Electrnics,Product_49,1.0,1882.67,Cash on Delivery,Returned,Delhi,New,0.1,2,1,1694.4
+ORD100345,CUST1472,2023-07-17,PROD2238,Electrnics,Product_46,4.0,1034.56,Cash on Delivery,Returned,Chennai,Regular,0.02,9,1,4055.48
+ORD100346,CUST1433,2023-05-14,PROD2155,Fasion,Product_62,,1800.61,Cash on Delivery,Cancelled,Pune,Regular,0.04,7,0,6914.34
+ORD100347,CUST1150,2023-03-08,PROD2290,Home & Kitchen,Product_8,2.0,2781.46,Credit Card,Delivered,Bangalore,New,0.0,7,0,5562.92
+ORD100348,CUST1414,2023-06-28,PROD2135,Toys,Product_43,4.0,4959.69,Net Banking,Returned,Pune,VIP,0.27,1,1,14482.29
+ORD100349,CUST1477,2023-02-11,PROD2143,Fasion,Product_20,3.0,3354.59,Net Banking,Returned,Chennai,New,0.01,6,1,9963.13
+ORD100350,CUST1297,2023-01-15,PROD2105,Books,Product_97,2.0,1076.31,Cash on Delivery,Returned,Pune,Regular,0.06,7,1,2023.46
+ORD100351,CUST1098,2023-04-21,PROD2157,Beauty,Product_90,1.0,,Credit Card,Returned,Pune,VIP,0.12,6,1,281.87
+ORD100352,CUST1262,2023-06-06,PROD2145,Home & Kitchen,Product_39,1.0,719.15,Credit Card,Cancelled,Hyderabad,New,0.11,6,0,640.04
+ORD100353,CUST1251,2023-10-16,PROD2001,Home & Kitchen,Product_85,3.0,2856.52,Net Banking,Cancelled,Pune,VIP,0.27,2,0,6255.78
+ORD100354,CUST1143,2023-08-19,PROD2076,Home & Kitchen,Product_49,1.0,3849.29,Net Banking,Cancelled,Chennai,VIP,0.01,6,0,3810.8
+ORD100355,CUST1345,2023-06-06,PROD2131,Toys,Product_64,4.0,4708.05,Cash on Delivery,Returned,Pune,New,0.15,4,1,16007.37
+ORD100356,CUST1111,2023-02-07,PROD2089,Fasion,Product_62,4.0,177.53,Cash on Delivery,Delivered,Delhi,Regular,0.2,9,0,568.1
+ORD100357,CUST1499,2023-04-07,PROD2262,Fasion,Product_54,3.0,2661.52,Net Banking,Cancelled,Chennai,Regular,0.28,-5,0,5748.88
+ORD100358,CUST1059,2023-10-16,PROD2107,Toys,Product_9,1.0,2407.25,Credit Card,Returned,Pune,New,0.19,8,1,-100.0
+ORD100359,CUST1368,2023-09-11,PROD2073,Fasion,Product_88,1.0,3314.67,Cash on Delivery,Delivered,Bangalore,New,0.24,5,0,2519.15
+ORD100360,CUST1001,2023-07-15,PROD2038,Home & Kitchen,Product_37,3.0,2841.94,Cash on Delivery,Cancelled,Mumbai,Regular,0.03,1,0,8270.05
+ORD100361,CUST1384,2023-03-27,PROD2158,Home & Kitchen,Product_49,2.0,3466.49,Credit Card,Cancelled,Mumbai,New,0.12,-5,0,6101.02
+ORD100362,CUST1303,2023-11-18,PROD2070,Electrnics,Product_41,1.0,3324.6,UPI,Delivered,Hyderabad,New,0.11,1,0,2958.89
+ORD100363,CUST1253,2023-01-10,PROD2240,Home & Kitchen,Product_17,2.0,673.36,Credit Card,Returned,Pune,Regular,0.27,6,1,983.11
+ORD100364,CUST1139,2023-01-05,PROD2297,Electrnics,Product_88,1.0,4018.62,Credit Card,Delivered,Hyderabad,New,0.05,2,0,3817.69
+ORD100365,CUST1452,2023-05-03,PROD2035,Books,Product_21,1.0,703.84,Credit Card,Returned,Pune,VIP,0.05,5,1,668.65
+ORD100366,CUST1036,2023-11-26,PROD2083,Electrnics,Product_51,1.0,3522.8,UPI,Delivered,Mumbai,New,0.1,7,0,3170.52
+ORD100367,CUST1159,2023-12-19,PROD2262,Beauty,Product_59,1.0,2139.11,Net Banking,Delivered,Delhi,New,0.02,2,0,2096.33
+ORD100368,CUST1008,2023-04-28,PROD2171,Books,Product_39,4.0,2617.87,UPI,Delivered,Pune,New,0.05,6,0,9947.91
+ORD100369,CUST1232,2023-10-21,PROD2172,Electrnics,Product_55,2.0,4526.16,Net Banking,Cancelled,Chennai,Regular,0.29,6,0,6427.15
+ORD100370,CUST1098,2023-06-08,PROD2046,Books,Product_41,2.0,4460.43,Credit Card,Cancelled,Pune,Regular,0.13,5,0,7761.15
+ORD100371,CUST1146,2023-10-30,PROD2140,Fasion,Product_39,1.0,4107.5,UPI,Cancelled,Mumbai,VIP,0.19,5,0,3327.08
+ORD100372,CUST1303,2023-08-16,PROD2117,Fasion,Product_13,1.0,2599.73,Cash on Delivery,Cancelled,Mumbai,VIP,0.22,3,0,2027.79
+ORD100373,CUST1207,2023-12-31,PROD2276,Books,Product_64,2.0,3707.58,Net Banking,Cancelled,Delhi,VIP,0.11,2,0,6599.49
+ORD100374,CUST1130,2023-08-04,PROD2213,Toys,Product_11,4.0,2613.2,Cash on Delivery,Returned,Delhi,Regular,0.04,7,1,10034.69
+ORD100375,CUST1403,2023-07-03,PROD2219,Electrnics,Product_19,3.0,4361.07,Cash on Delivery,Cancelled,Delhi,VIP,0.06,1,0,12298.22
+ORD100376,CUST1151,2023-01-15,PROD2025,Beauty,Product_11,3.0,2073.6,UPI,Delivered,Chennai,New,0.09,6,0,5660.93
+ORD100377,CUST1053,2023-06-06,PROD2008,Books,Product_77,2.0,4854.15,Credit Card,Delivered,Chennai,New,0.19,6,0,7863.72
+ORD100378,CUST1119,2023-05-16,PROD2270,Fasion,Product_46,1.0,4668.38,Net Banking,Returned,Bangalore,Regular,0.12,3,1,4108.17
+ORD100379,CUST1160,2023-09-18,PROD2009,Books,Product_45,1.0,3733.85,Net Banking,Cancelled,Pune,Regular,0.0,-5,0,3733.85
+ORD100380,CUST1407,2023-06-06,PROD2120,Electrnics,Product_1,4.0,1469.14,UPI,Cancelled,Mumbai,Regular,0.16,2,0,4936.31
+ORD100381,CUST1115,2023-02-16,PROD2124,Books,Product_40,3.0,745.1,UPI,Delivered,Chennai,Regular,0.28,9,0,1609.42
+ORD100382,CUST1074,2023-11-20,PROD2169,Home & Kitchen,Product_19,4.0,,UPI,Delivered,Hyderabad,VIP,0.24,5,0,13035.67
+ORD100383,CUST1112,2023-11-28,PROD2071,Fasion,Product_76,3.0,909.98,Cash on Delivery,Cancelled,Hyderabad,VIP,0.25,-5,0,2047.46
+ORD100384,CUST1455,2023-06-22,PROD2151,Books,Product_72,2.0,4285.88,Net Banking,Delivered,Hyderabad,Regular,0.24,5,0,6514.54
+ORD100385,CUST1419,2023-05-10,PROD2207,Books,Product_72,3.0,2504.75,UPI,Cancelled,Bangalore,VIP,0.1,7,0,6762.82
+ORD100386,CUST1421,2023-04-05,PROD2048,Home & Kitchen,Product_61,4.0,,Cash on Delivery,Cancelled,Pune,Regular,0.23,4,0,6443.76
+ORD100387,CUST1103,2023-04-25,PROD2153,Beauty,Product_12,4.0,4525.63,UPI,Returned,Hyderabad,Regular,0.04,8,1,17378.42
+ORD100388,CUST1339,2023-08-31,PROD2292,Toys,Product_61,4.0,3058.87,Credit Card,Cancelled,Bangalore,Regular,0.2,7,0,9788.38
+ORD100389,CUST1253,2023-10-19,PROD2067,Fasion,Product_33,2.0,2925.41,Credit Card,,Hyderabad,VIP,0.19,5,0,4739.16
+ORD100390,CUST1226,2023-10-09,PROD2049,Toys,Product_45,3.0,2837.95,Net Banking,Cancelled,Delhi,Regular,0.01,6,0,8428.71
+ORD100391,CUST1111,2023-10-26,PROD2151,Beauty,Product_90,,1918.73,Net Banking,Returned,Pune,New,0.24,5,1,4374.7
+ORD100392,CUST1472,2023-10-10,PROD2018,Books,Product_92,4.0,,Cash on Delivery,Returned,Pune,Regular,0.27,-5,1,11532.98
+ORD100393,CUST1098,2023-03-10,PROD2099,Books,Product_69,3.0,1338.71,Cash on Delivery,Returned,Mumbai,Regular,0.08,2,1,3694.84
+ORD100394,CUST1152,2023-05-28,PROD2059,Books,Product_8,,4700.59,Net Banking,Returned,Hyderabad,Regular,0.24,5,1,3572.45
+ORD100395,CUST1348,2023-01-11,PROD2166,Books,Product_25,1.0,4480.53,UPI,Returned,Chennai,New,0.02,3,1,4390.92
+ORD100396,CUST1401,2023-09-11,PROD2201,Fasion,Product_91,1.0,,UPI,Returned,Delhi,New,0.18,9,1,1437.99
+ORD100397,CUST1383,2023-11-26,PROD2145,Electrnics,Product_46,,3674.37,Net Banking,Cancelled,Delhi,New,0.15,6,0,9369.64
+ORD100398,CUST1365,2023-12-26,PROD2163,Home & Kitchen,Product_87,2.0,2908.79,Net Banking,,Pune,VIP,0.16,3,0,4886.77
+ORD100399,CUST1337,2023-02-07,PROD2241,Electrnics,Product_30,2.0,1754.48,Credit Card,Delivered,Delhi,Regular,0.28,7,0,2526.45
+ORD100400,CUST1193,2023-05-14,PROD2068,Beauty,Product_47,,4943.76,UPI,Returned,Chennai,New,0.26,4,1,7316.76
+ORD100401,CUST1309,2023-07-19,PROD2174,Electrnics,Product_87,2.0,223.66,UPI,Returned,Pune,New,0.24,3,1,339.96
+ORD100402,CUST1162,2023-01-23,PROD2048,Home & Kitchen,Product_49,1.0,1337.97,UPI,Delivered,Pune,Regular,0.08,8,0,1230.93
+ORD100403,CUST1207,2023-10-30,PROD2107,Electrnics,Product_47,,2648.36,UPI,Returned,Delhi,New,0.27,4,1,1933.3
+ORD100404,CUST1444,2023-12-12,PROD2225,Electrnics,Product_84,4.0,2657.57,Credit Card,Delivered,Chennai,VIP,0.03,1,0,10311.37
+ORD100405,CUST1168,2023-10-29,PROD2160,Beauty,Product_82,3.0,2985.77,Credit Card,Cancelled,Hyderabad,Regular,0.26,6,0,6628.41
+ORD100406,CUST1483,2023-12-29,PROD2118,Home & Kitchen,Product_18,3.0,3783.21,Net Banking,Delivered,Chennai,VIP,0.1,1,0,10214.67
+ORD100407,CUST1160,2023-08-06,PROD2148,Toys,Product_66,2.0,3155.04,Net Banking,Cancelled,Hyderabad,VIP,0.02,5,0,6183.88
+ORD100408,CUST1067,2023-05-21,PROD2149,Home & Kitchen,Product_68,1.0,3041.38,Cash on Delivery,Delivered,Pune,Regular,0.2,7,0,2433.1
+ORD100409,CUST1288,2023-04-14,PROD2292,Home & Kitchen,Product_94,2.0,362.22,Credit Card,Delivered,Hyderabad,New,0.07,6,0,673.73
+ORD100410,CUST1397,2023-07-29,PROD2142,Toys,Product_33,4.0,1945.0,Net Banking,Returned,Delhi,Regular,0.07,2,1,7235.4
+ORD100411,CUST1276,2023-04-21,PROD2159,Beauty,Product_36,3.0,1237.07,Cash on Delivery,Returned,Chennai,Regular,0.09,4,1,3377.2
+ORD100412,CUST1303,2023-04-14,PROD2010,Beauty,Product_82,,1400.31,Credit Card,Returned,Bangalore,New,0.02,2,1,4116.91
+ORD100413,CUST1403,2023-11-12,PROD2137,Fasion,Product_19,2.0,2816.25,Cash on Delivery,Cancelled,Pune,New,0.05,1,0,5350.88
+ORD100414,CUST1383,2023-06-20,PROD2077,Home & Kitchen,Product_28,4.0,1077.58,Credit Card,Cancelled,Delhi,VIP,0.0,3,0,4310.32
+ORD100415,CUST1391,2023-12-22,PROD2076,Home & Kitchen,Product_40,3.0,1540.35,Credit Card,Returned,Bangalore,VIP,0.13,3,1,4020.31
+ORD100416,CUST1134,2023-11-20,PROD2253,Beauty,Product_84,4.0,1261.72,Cash on Delivery,Returned,Bangalore,VIP,0.03,7,1,4895.47
+ORD100417,CUST1194,2023-05-13,PROD2257,Electrnics,Product_97,4.0,4747.66,Credit Card,Delivered,Delhi,Regular,0.2,1,0,15192.51
+ORD100418,CUST1400,2023-10-20,PROD2290,Toys,Product_76,2.0,4728.86,UPI,Delivered,Chennai,New,0.07,9,0,-100.0
+ORD100419,CUST1127,2023-11-24,PROD2262,Electrnics,Product_15,1.0,3088.71,UPI,Delivered,Delhi,Regular,0.28,6,0,2223.87
+ORD100420,CUST1032,2023-05-07,PROD2084,Books,Product_41,2.0,4630.16,Net Banking,Cancelled,Pune,New,0.26,4,0,6852.64
+ORD100421,CUST1175,2023-04-16,PROD2145,Electrnics,Product_39,1.0,3950.48,Credit Card,Cancelled,Bangalore,Regular,0.09,-5,0,3594.94
+ORD100422,CUST1459,2023-04-02,PROD2041,Fasion,Product_2,4.0,2990.74,UPI,Delivered,Hyderabad,New,0.23,3,0,9211.48
+ORD100423,CUST1442,2023-10-14,PROD2124,Books,Product_63,1.0,131.53,Net Banking,,Bangalore,Regular,0.24,2,0,99.96
+ORD100424,CUST1370,2023-02-20,PROD2166,Electrnics,Product_29,4.0,,Net Banking,Delivered,Bangalore,VIP,0.3,2,0,10878.92
+ORD100425,CUST1469,2023-01-29,PROD2240,Books,Product_74,3.0,3542.19,Credit Card,Cancelled,Chennai,Regular,0.18,5,0,8713.79
+ORD100426,CUST1374,2023-10-23,PROD2279,Fasion,Product_66,3.0,3114.74,Net Banking,Returned,Delhi,New,0.02,9,1,9157.34
+ORD100427,CUST1021,2023-10-24,PROD2187,Beauty,Product_51,3.0,3826.08,Cash on Delivery,Delivered,Chennai,New,0.19,2,0,-100.0
+ORD100428,CUST1237,2023-08-02,PROD2018,Books,Product_75,2.0,2613.32,Net Banking,Returned,Mumbai,New,0.19,-5,1,4233.58
+ORD100429,CUST1157,2023-09-24,PROD2067,Electrnics,Product_77,2.0,,Net Banking,Cancelled,Bangalore,VIP,0.19,6,0,5751.02
+ORD100430,CUST1037,2023-09-14,PROD2217,Fasion,Product_10,4.0,4682.34,Cash on Delivery,Returned,Bangalore,VIP,0.09,2,1,17043.72
+ORD100431,CUST1229,2023-10-29,PROD2101,Electrnics,Product_14,3.0,1941.44,Credit Card,Delivered,Delhi,VIP,0.26,4,0,4310.0
+ORD100432,CUST1364,2023-04-11,PROD2041,Electrnics,Product_82,2.0,3569.8,Cash on Delivery,Returned,Pune,New,0.29,6,1,5069.12
+ORD100433,CUST1050,2023-12-12,PROD2287,Home & Kitchen,Product_51,3.0,2430.87,UPI,Returned,Pune,New,0.07,5,1,6782.13
+ORD100434,CUST1437,2023-04-20,PROD2166,Beauty,Product_73,2.0,,Credit Card,Cancelled,Bangalore,VIP,0.03,1,0,6604.85
+ORD100435,CUST1263,2023-07-01,PROD2108,Home & Kitchen,Product_39,1.0,3838.18,Net Banking,Returned,Delhi,VIP,0.06,6,1,3607.89
+ORD100436,CUST1282,2023-11-09,PROD2035,Beauty,Product_28,,322.72,Credit Card,Cancelled,Chennai,Regular,0.25,1,0,242.04
+ORD100437,CUST1026,2023-01-01,PROD2231,Beauty,Product_3,,3268.34,Net Banking,Delivered,Pune,Regular,0.2,3,0,7844.02
+ORD100438,CUST1225,2023-11-15,PROD2228,Beauty,Product_84,4.0,1211.03,Net Banking,Cancelled,Delhi,VIP,0.19,5,0,3923.74
+ORD100439,CUST1276,2023-02-24,PROD2163,Books,Product_70,2.0,3383.16,Cash on Delivery,Delivered,Delhi,Regular,0.12,5,0,5954.36
+ORD100440,CUST1285,2023-05-29,PROD2072,Home & Kitchen,Product_27,2.0,2394.82,UPI,Cancelled,Delhi,Regular,0.17,6,0,3975.4
+ORD100441,CUST1096,2023-11-05,PROD2135,Books,Product_2,1.0,3890.41,Credit Card,Returned,Delhi,New,0.09,8,1,3540.27
+ORD100442,CUST1283,2023-05-17,PROD2069,Beauty,Product_93,1.0,704.66,Credit Card,Delivered,Hyderabad,VIP,0.14,5,0,606.01
+ORD100443,CUST1366,2023-07-21,PROD2195,Fasion,Product_38,4.0,3168.98,Net Banking,Delivered,Mumbai,VIP,0.24,1,0,9633.7
+ORD100444,CUST1447,2023-11-09,PROD2268,Electrnics,Product_3,4.0,1464.51,UPI,Returned,Pune,New,0.29,-5,1,4159.21
+ORD100445,CUST1480,2023-04-27,PROD2048,Books,Product_16,4.0,4279.61,UPI,,Bangalore,New,0.28,3,1,12325.28
+ORD100446,CUST1452,2023-06-03,PROD2129,Electrnics,Product_94,3.0,4649.08,Net Banking,,Delhi,New,0.28,4,0,10042.01
+ORD100447,CUST1316,2023-10-18,PROD2004,Books,Product_40,1.0,,Cash on Delivery,Cancelled,Pune,New,0.12,8,0,4384.47
+ORD100448,CUST1303,2023-03-04,PROD2026,Home & Kitchen,Product_2,3.0,,Net Banking,Returned,Pune,Regular,0.14,7,1,10321.14
+ORD100449,CUST1146,2023-09-01,PROD2159,Beauty,Product_81,1.0,,Credit Card,Delivered,Mumbai,VIP,0.21,5,0,2996.71
+ORD100450,CUST1003,2023-01-25,PROD2148,Electrnics,Product_41,1.0,1155.95,Cash on Delivery,,Bangalore,VIP,0.28,2,0,832.28
+ORD100451,CUST1034,2023-03-31,PROD2263,Electrnics,Product_12,2.0,,Credit Card,Cancelled,Pune,VIP,0.04,6,0,3353.15
+ORD100452,CUST1191,2023-03-16,PROD2229,Electrnics,Product_35,,2381.84,UPI,Cancelled,Bangalore,Regular,0.09,6,0,2167.47
+ORD100453,CUST1048,2023-10-21,PROD2199,Toys,Product_65,1.0,3889.57,Cash on Delivery,Cancelled,Chennai,VIP,0.04,6,0,3733.99
+ORD100454,CUST1016,2023-07-29,PROD2049,Electrnics,Product_55,3.0,4583.33,Credit Card,Returned,Delhi,New,0.18,9,1,11274.99
+ORD100455,CUST1171,2023-12-13,PROD2066,Beauty,Product_45,1.0,1026.78,Net Banking,Delivered,Mumbai,New,0.09,8,0,934.37
+ORD100456,CUST1219,2023-01-17,PROD2299,Electrnics,Product_79,3.0,4619.6,Cash on Delivery,Delivered,Pune,Regular,0.1,8,0,12472.92
+ORD100457,CUST1157,2023-05-08,PROD2057,Books,Product_90,4.0,3508.56,Cash on Delivery,Cancelled,Chennai,New,0.02,1,0,13753.56
+ORD100458,CUST1476,2023-12-30,PROD2258,Fasion,Product_85,1.0,3092.78,Net Banking,Delivered,Hyderabad,New,0.1,5,0,2783.5
+ORD100459,CUST1045,2023-09-08,PROD2129,Fasion,Product_62,1.0,1079.22,Cash on Delivery,Delivered,Hyderabad,New,0.26,7,0,798.62
+ORD100460,CUST1372,2023-06-28,PROD2214,Beauty,Product_49,3.0,372.07,UPI,Cancelled,Mumbai,Regular,0.07,6,0,1038.08
+ORD100461,CUST1005,2023-07-01,PROD2171,Books,Product_95,4.0,2885.48,Cash on Delivery,Returned,Bangalore,New,0.21,5,1,9118.12
+ORD100462,CUST1098,2023-06-01,PROD2257,Home & Kitchen,Product_25,2.0,3292.43,Cash on Delivery,Returned,Chennai,Regular,0.19,8,1,5333.74
+ORD100463,CUST1379,2023-01-25,PROD2101,Toys,Product_23,4.0,1132.83,Credit Card,Delivered,Chennai,New,0.26,3,0,3353.18
+ORD100464,CUST1232,2023-06-29,PROD2208,Books,Product_24,3.0,2826.64,UPI,Delivered,Mumbai,VIP,0.04,6,0,8140.72
+ORD100465,CUST1036,2023-07-17,PROD2290,Home & Kitchen,Product_38,4.0,4296.82,Net Banking,Returned,Chennai,Regular,0.29,5,1,12202.97
+ORD100466,CUST1279,2023-12-10,PROD2285,Home & Kitchen,Product_28,3.0,4191.82,Cash on Delivery,Cancelled,Chennai,New,0.17,8,0,10437.63
+ORD100467,CUST1348,2023-06-10,PROD2115,Electrnics,Product_21,3.0,,Net Banking,Returned,Delhi,VIP,0.3,4,1,-100.0
+ORD100468,CUST1496,2023-06-26,PROD2263,Books,Product_54,2.0,1892.84,UPI,Returned,Bangalore,VIP,0.27,8,1,2763.55
+ORD100469,CUST1301,2023-10-12,PROD2149,Toys,Product_18,1.0,1658.44,Credit Card,Returned,Pune,Regular,0.07,2,1,1542.35
+ORD100470,CUST1180,2023-03-04,PROD2299,Home & Kitchen,Product_36,3.0,3772.19,Cash on Delivery,Delivered,Chennai,Regular,0.02,9,0,11090.24
+ORD100471,CUST1094,2023-05-30,PROD2035,Fasion,Product_99,3.0,2212.45,UPI,Cancelled,Hyderabad,Regular,0.08,9,0,6106.36
+ORD100472,CUST1098,2023-06-03,PROD2286,Toys,Product_45,2.0,528.99,Credit Card,Returned,Bangalore,New,0.16,6,1,888.7
+ORD100473,CUST1187,2023-06-05,PROD2207,Toys,Product_73,3.0,1485.73,Cash on Delivery,Returned,Bangalore,Regular,0.05,4,1,4234.33
+ORD100474,CUST1480,2023-02-18,PROD2105,Beauty,Product_53,1.0,2151.05,Cash on Delivery,Returned,Hyderabad,New,0.05,4,1,2043.5
+ORD100475,CUST1115,2023-12-03,PROD2157,Books,Product_30,2.0,1533.33,Credit Card,Cancelled,Delhi,VIP,0.14,6,0,2637.33
+ORD100476,CUST1190,2023-03-25,PROD2120,Electrnics,Product_60,1.0,1727.81,Cash on Delivery,Returned,Bangalore,VIP,0.01,5,1,1710.53
+ORD100477,CUST1252,2023-12-27,PROD2054,Home & Kitchen,Product_98,1.0,,Credit Card,Returned,Pune,New,0.04,6,1,1477.92
+ORD100478,CUST1468,2023-06-26,PROD2011,Books,Product_32,2.0,,Net Banking,Cancelled,Delhi,Regular,0.12,7,0,533.9
+ORD100479,CUST1415,2023-05-28,PROD2144,Home & Kitchen,Product_67,,3221.76,Net Banking,Cancelled,Mumbai,Regular,0.02,7,0,9471.97
+ORD100480,CUST1470,2023-04-28,PROD2135,Home & Kitchen,Product_67,1.0,3026.73,Net Banking,Cancelled,Bangalore,VIP,0.12,9,0,2663.52
+ORD100481,CUST1160,2023-12-08,PROD2002,Books,Product_28,1.0,3301.58,Net Banking,Returned,Bangalore,VIP,0.14,8,1,2839.36
+ORD100482,CUST1255,2023-03-04,PROD2143,Home & Kitchen,Product_44,1.0,1042.32,UPI,Cancelled,Mumbai,VIP,0.14,-5,0,896.4
+ORD100483,CUST1322,2023-07-08,PROD2029,Home & Kitchen,Product_79,1.0,1548.71,Net Banking,,Mumbai,Regular,0.26,6,1,1146.05
+ORD100484,CUST1127,2023-12-26,PROD2236,Beauty,Product_41,2.0,3136.12,UPI,Returned,Chennai,Regular,0.16,5,1,5268.68
+ORD100485,CUST1017,2023-02-18,PROD2278,Home & Kitchen,Product_63,2.0,3038.18,UPI,Returned,Hyderabad,Regular,0.14,1,1,5225.67
+ORD100486,CUST1280,2023-11-23,PROD2114,Beauty,Product_23,4.0,2581.02,Credit Card,Cancelled,Pune,VIP,0.12,9,0,9085.19
+ORD100487,CUST1489,2023-09-14,PROD2103,Toys,Product_75,4.0,1817.02,UPI,Delivered,Mumbai,VIP,0.25,9,0,5451.06
+ORD100488,CUST1222,2023-08-12,PROD2117,Beauty,Product_48,,4573.36,Net Banking,Returned,Chennai,VIP,0.27,9,1,3338.55
+ORD100489,CUST1053,2023-05-21,PROD2004,Beauty,Product_32,,1764.87,Cash on Delivery,Cancelled,Pune,Regular,0.26,8,0,3918.01
+ORD100490,CUST1057,2023-08-03,PROD2247,Home & Kitchen,Product_57,1.0,2332.53,Net Banking,Delivered,Hyderabad,Regular,0.2,3,0,1866.02
+ORD100491,CUST1322,2023-07-30,PROD2120,Fasion,Product_33,3.0,3422.76,UPI,Cancelled,Chennai,Regular,0.04,1,0,9857.55
+ORD100492,CUST1359,2023-11-14,PROD2285,Electrnics,Product_24,1.0,2760.81,Net Banking,Delivered,Mumbai,VIP,0.08,8,0,2539.95
+ORD100493,CUST1173,2023-02-01,PROD2148,Electrnics,Product_39,4.0,1799.74,Cash on Delivery,Cancelled,Chennai,New,0.01,7,0,7126.97
+ORD100494,CUST1279,2023-06-07,PROD2083,Home & Kitchen,Product_34,4.0,,UPI,Cancelled,Mumbai,Regular,0.28,5,0,6435.82
+ORD100495,CUST1113,2023-10-12,PROD2230,Books,Product_56,3.0,3992.96,UPI,Returned,Hyderabad,Regular,0.2,7,1,9583.1
+ORD100496,CUST1287,2023-11-01,PROD2287,Books,Product_28,1.0,1462.83,Credit Card,Cancelled,Mumbai,Regular,0.22,4,0,1141.01
+ORD100497,CUST1430,2023-10-13,PROD2160,Beauty,Product_37,,797.05,Cash on Delivery,Returned,Hyderabad,VIP,0.09,9,1,2175.95
+ORD100498,CUST1341,2023-05-24,PROD2271,Electrnics,Product_7,4.0,1634.5,UPI,Returned,Hyderabad,VIP,0.25,2,1,-100.0
+ORD100499,CUST1150,2023-01-19,PROD2037,Beauty,Product_68,,4262.72,Cash on Delivery,Delivered,Mumbai,VIP,0.08,9,0,3921.7
+ORD100500,CUST1449,2023-01-18,PROD2225,Toys,Product_37,1.0,536.05,Net Banking,Cancelled,Mumbai,VIP,0.0,9,0,536.05
+ORD100501,CUST1126,2023-09-14,PROD2141,Beauty,Product_56,3.0,4959.31,Cash on Delivery,Returned,Delhi,Regular,0.11,5,1,13241.36
+ORD100502,CUST1154,2023-03-19,PROD2291,Toys,Product_65,,2750.91,Credit Card,Returned,Pune,Regular,0.17,1,1,4566.51
+ORD100503,CUST1489,2023-06-24,PROD2150,Beauty,Product_65,3.0,4925.74,UPI,,Hyderabad,New,0.14,7,0,12708.41
+ORD100504,CUST1385,2023-07-13,PROD2113,Books,Product_47,4.0,4701.08,Credit Card,Cancelled,Mumbai,VIP,0.26,4,0,13915.2
+ORD100505,CUST1473,2023-04-23,PROD2236,Home & Kitchen,Product_20,,2318.79,Credit Card,Returned,Delhi,Regular,0.03,9,1,8996.91
+ORD100506,CUST1272,2023-04-24,PROD2065,Books,Product_19,4.0,1072.61,UPI,Cancelled,Bangalore,Regular,0.17,6,0,3561.07
+ORD100507,CUST1103,2023-08-10,PROD2257,Home & Kitchen,Product_29,4.0,907.94,UPI,Returned,Pune,VIP,0.15,3,1,3087.0
+ORD100508,CUST1416,2023-06-15,PROD2248,Beauty,Product_74,4.0,1275.95,Net Banking,,Pune,New,0.08,6,0,4695.5
+ORD100509,CUST1392,2023-11-15,PROD2179,Home & Kitchen,Product_60,2.0,3579.65,Net Banking,Delivered,Mumbai,Regular,0.25,-5,0,5369.48
+ORD100510,CUST1298,2023-05-12,PROD2189,Books,Product_18,1.0,1437.45,Net Banking,Returned,Bangalore,VIP,0.23,5,1,1106.84
+ORD100511,CUST1245,2023-09-21,PROD2153,Books,Product_92,3.0,1772.98,UPI,Cancelled,Bangalore,VIP,0.22,2,0,4148.77
+ORD100512,CUST1175,2023-02-24,PROD2195,Toys,Product_35,3.0,2299.02,Credit Card,Delivered,Hyderabad,Regular,0.26,2,0,5103.82
+ORD100513,CUST1038,2023-12-25,PROD2261,Toys,Product_43,4.0,4574.84,UPI,Delivered,Mumbai,VIP,0.22,7,0,14273.5
+ORD100514,CUST1476,2023-05-11,PROD2142,Electrnics,Product_95,3.0,1028.03,Credit Card,Returned,Bangalore,Regular,0.07,2,1,2868.2
+ORD100515,CUST1169,2023-10-15,PROD2100,Home & Kitchen,Product_91,4.0,124.63,UPI,Delivered,Chennai,New,0.21,6,0,393.83
+ORD100516,CUST1246,2023-09-23,PROD2243,Fasion,Product_11,2.0,,Cash on Delivery,Returned,Chennai,Regular,0.09,5,1,717.94
+ORD100517,CUST1025,2023-06-11,PROD2011,Electrnics,Product_49,2.0,4533.36,Credit Card,Returned,Hyderabad,VIP,0.07,4,1,8432.05
+ORD100518,CUST1354,2023-03-28,PROD2238,Home & Kitchen,Product_38,1.0,,Credit Card,Cancelled,Bangalore,Regular,0.02,7,0,3207.37
+ORD100519,CUST1305,2023-02-24,PROD2048,Books,Product_64,2.0,1437.9,Credit Card,Cancelled,Pune,VIP,0.22,8,0,2243.12
+ORD100520,CUST1408,2023-10-15,PROD2041,Books,Product_69,2.0,968.24,UPI,Returned,Bangalore,VIP,0.21,4,1,1529.82
+ORD100521,CUST1407,2023-06-27,PROD2165,Beauty,Product_8,1.0,1541.91,Credit Card,Cancelled,Delhi,VIP,0.07,1,0,1433.98
+ORD100522,CUST1012,2023-12-15,PROD2081,Home & Kitchen,Product_34,3.0,,Credit Card,Returned,Chennai,Regular,0.22,1,1,1550.25
+ORD100523,CUST1315,2023-01-08,PROD2290,Electrnics,Product_48,4.0,4713.51,Cash on Delivery,Returned,Bangalore,Regular,0.28,1,1,13574.91
+ORD100524,CUST1390,2023-11-17,PROD2157,Home & Kitchen,Product_56,4.0,3942.61,Credit Card,Cancelled,Delhi,New,0.03,1,0,15297.33
+ORD100525,CUST1312,2023-11-09,PROD2215,Electrnics,Product_76,3.0,2365.72,Net Banking,Returned,Hyderabad,New,0.07,-5,1,6600.36
+ORD100526,CUST1035,2023-09-04,PROD2157,Books,Product_65,1.0,4338.32,Net Banking,Delivered,Hyderabad,New,0.23,4,0,3340.51
+ORD100527,CUST1172,2023-11-19,PROD2133,Home & Kitchen,Product_31,3.0,1322.35,UPI,Returned,Mumbai,New,0.08,9,1,3649.69
+ORD100528,CUST1019,2023-09-12,PROD2066,Fasion,Product_4,2.0,3613.89,UPI,Delivered,Delhi,Regular,0.19,3,0,5854.5
+ORD100529,CUST1320,2023-11-24,PROD2006,Fasion,Product_50,1.0,,Credit Card,Returned,Mumbai,New,0.02,7,1,4209.15
+ORD100530,CUST1263,2023-02-23,PROD2013,Beauty,Product_69,1.0,1848.17,Credit Card,Returned,Bangalore,New,0.14,8,1,1589.43
+ORD100531,CUST1493,2023-09-06,PROD2072,Electrnics,Product_30,1.0,3811.58,Net Banking,Cancelled,Pune,Regular,0.22,6,0,2973.03
+ORD100532,CUST1399,2023-08-27,PROD2162,Books,Product_88,4.0,1545.85,UPI,Returned,Pune,Regular,0.21,1,1,4884.89
+ORD100533,CUST1141,2023-08-17,PROD2065,Books,Product_59,3.0,1564.4,UPI,Returned,Hyderabad,VIP,0.24,8,1,3566.83
+ORD100534,CUST1459,2023-03-08,PROD2129,Fasion,Product_67,1.0,,UPI,,Pune,New,0.26,3,1,-100.0
+ORD100535,CUST1370,2023-02-20,PROD2205,Beauty,Product_75,1.0,2256.28,UPI,,Hyderabad,New,0.23,8,1,1737.34
+ORD100536,CUST1470,2023-04-07,PROD2275,Home & Kitchen,Product_45,1.0,,Credit Card,Returned,Delhi,Regular,0.2,4,1,2940.47
+ORD100537,CUST1142,2023-04-02,PROD2255,Fasion,Product_4,3.0,4707.08,UPI,Cancelled,Delhi,Regular,0.01,8,0,13980.03
+ORD100538,CUST1091,2023-09-21,PROD2265,Fasion,Product_26,4.0,3058.61,Credit Card,Returned,Chennai,VIP,0.16,-5,1,10276.93
+ORD100539,CUST1353,2023-10-18,PROD2024,Books,Product_27,2.0,,UPI,Delivered,Delhi,VIP,0.01,3,0,8572.13
+ORD100540,CUST1321,2023-04-06,PROD2280,Electrnics,Product_46,4.0,4130.22,Cash on Delivery,Cancelled,Pune,Regular,0.24,6,0,12555.87
+ORD100541,CUST1287,2023-03-29,PROD2252,Books,Product_64,1.0,949.38,Cash on Delivery,Cancelled,Hyderabad,VIP,0.1,9,0,854.44
+ORD100542,CUST1214,2023-03-19,PROD2288,Beauty,Product_91,4.0,2480.51,Net Banking,Delivered,Bangalore,New,0.17,2,0,8235.29
+ORD100543,CUST1446,2023-10-15,PROD2163,Books,Product_51,4.0,672.93,Net Banking,Returned,Delhi,New,0.08,1,1,2476.38
+ORD100544,CUST1341,2023-04-30,PROD2094,Books,Product_50,2.0,3442.55,Credit Card,Returned,Delhi,Regular,0.23,3,1,5301.53
+ORD100545,CUST1050,2023-10-29,PROD2269,Toys,Product_6,3.0,4754.51,Credit Card,Delivered,Hyderabad,New,0.27,4,0,10412.38
+ORD100546,CUST1152,2023-06-14,PROD2109,Toys,Product_59,,,Cash on Delivery,Delivered,Bangalore,VIP,0.12,5,0,2037.39
+ORD100547,CUST1185,2023-07-01,PROD2237,Fasion,Product_15,4.0,3696.03,UPI,Delivered,Hyderabad,Regular,0.26,3,0,10940.25
+ORD100548,CUST1062,2023-08-11,PROD2024,Beauty,Product_30,,3197.97,Net Banking,Cancelled,Chennai,New,0.08,2,0,11768.53
+ORD100549,CUST1189,2023-11-07,PROD2140,Home & Kitchen,Product_42,3.0,2959.66,Cash on Delivery,Returned,Delhi,VIP,0.16,2,1,7458.34
+ORD100550,CUST1124,2023-01-07,PROD2116,Home & Kitchen,Product_37,3.0,2011.59,Cash on Delivery,Cancelled,Mumbai,Regular,0.26,7,0,4465.73
+ORD100551,CUST1149,2023-11-26,PROD2024,Home & Kitchen,Product_42,2.0,1840.15,Net Banking,Cancelled,Delhi,New,0.1,9,0,3312.27
+ORD100552,CUST1313,2023-09-20,PROD2078,Home & Kitchen,Product_35,1.0,321.72,Net Banking,Returned,Delhi,VIP,0.29,2,1,228.42
+ORD100553,CUST1057,2023-06-10,PROD2067,Books,Product_87,4.0,1167.75,UPI,Cancelled,Pune,VIP,0.04,7,0,-100.0
+ORD100554,CUST1341,2023-05-31,PROD2172,Fasion,Product_6,3.0,174.37,Cash on Delivery,Delivered,Chennai,VIP,0.01,7,0,517.88
+ORD100555,CUST1304,2023-03-26,PROD2011,Electrnics,Product_68,4.0,2948.94,Cash on Delivery,Cancelled,Chennai,Regular,0.27,7,0,8610.9
+ORD100556,CUST1179,2023-05-27,PROD2287,Beauty,Product_18,4.0,618.68,UPI,Cancelled,Hyderabad,VIP,0.02,3,0,2425.23
+ORD100557,CUST1169,2023-04-22,PROD2127,Beauty,Product_73,3.0,4377.8,UPI,Returned,Pune,VIP,0.3,7,1,9193.38
+ORD100558,CUST1325,2023-02-05,PROD2095,Beauty,Product_29,2.0,,UPI,Returned,Chennai,VIP,0.29,1,1,3782.03
+ORD100559,CUST1270,2023-10-12,PROD2091,Electrnics,Product_77,4.0,3528.48,Credit Card,Cancelled,Chennai,Regular,0.04,-5,0,13549.36
+ORD100560,CUST1053,2023-07-07,PROD2140,Books,Product_59,2.0,2113.2,Net Banking,Returned,Mumbai,VIP,0.16,5,1,3550.18
+ORD100561,CUST1490,2023-03-23,PROD2030,Home & Kitchen,Product_47,,2846.84,Net Banking,Returned,Mumbai,VIP,0.06,2,1,8028.09
+ORD100562,CUST1443,2023-01-02,PROD2019,Beauty,Product_17,1.0,,UPI,Cancelled,Chennai,New,0.13,9,0,4105.56
+ORD100563,CUST1100,2023-10-30,PROD2145,Toys,Product_96,1.0,,Credit Card,Cancelled,Mumbai,VIP,0.02,7,0,495.29
+ORD100564,CUST1480,2023-07-16,PROD2159,Beauty,Product_22,4.0,1344.3,UPI,Delivered,Bangalore,VIP,0.07,4,0,5000.8
+ORD100565,CUST1263,2023-01-11,PROD2042,Electrnics,Product_68,3.0,,UPI,Returned,Hyderabad,New,0.11,4,1,10471.58
+ORD100566,CUST1052,2023-08-22,PROD2253,Toys,Product_69,2.0,583.81,Cash on Delivery,Returned,Pune,Regular,0.13,2,1,1015.83
+ORD100567,CUST1059,2023-07-14,PROD2129,Books,Product_37,4.0,470.74,UPI,Delivered,Chennai,VIP,0.29,5,0,1336.9
+ORD100568,CUST1491,2023-04-29,PROD2059,Fasion,Product_49,3.0,1871.55,Cash on Delivery,Delivered,Delhi,VIP,0.24,4,0,4267.13
+ORD100569,CUST1107,2023-01-20,PROD2150,Toys,Product_13,3.0,551.62,Net Banking,Returned,Bangalore,VIP,0.22,1,1,1290.79
+ORD100570,CUST1004,2023-09-18,PROD2286,Home & Kitchen,Product_34,2.0,2966.88,Cash on Delivery,Delivered,Bangalore,New,0.16,8,0,4984.36
+ORD100571,CUST1102,2023-10-20,PROD2004,Electrnics,Product_86,4.0,,Credit Card,Cancelled,Delhi,Regular,0.25,3,0,3626.25
+ORD100572,CUST1195,2023-09-13,PROD2265,Fasion,Product_53,3.0,4488.92,Cash on Delivery,Delivered,Pune,Regular,0.1,6,0,12120.08
+ORD100573,CUST1261,2023-08-10,PROD2129,Books,Product_87,3.0,3939.15,UPI,Cancelled,Pune,Regular,0.21,4,0,9335.79
+ORD100574,CUST1364,2023-08-14,PROD2266,Home & Kitchen,Product_51,3.0,3528.56,Cash on Delivery,,Pune,New,0.3,9,0,7409.98
+ORD100575,CUST1479,2023-02-22,PROD2177,Electrnics,Product_3,2.0,3123.03,Credit Card,Delivered,Bangalore,New,0.09,-5,0,5683.91
+ORD100576,CUST1371,2023-12-21,PROD2252,Fasion,Product_42,,,Cash on Delivery,Cancelled,Hyderabad,New,0.2,9,0,13859.14
+ORD100577,CUST1349,2023-12-08,PROD2055,Electrnics,Product_98,4.0,,Cash on Delivery,Cancelled,Chennai,Regular,0.25,3,0,3579.0
+ORD100578,CUST1046,2023-12-30,PROD2082,Toys,Product_32,4.0,4378.23,Credit Card,Delivered,Bangalore,Regular,0.27,1,0,12784.43
+ORD100579,CUST1354,2023-10-07,PROD2098,Fasion,Product_51,4.0,3968.51,UPI,Delivered,Chennai,VIP,0.22,5,0,12381.75
+ORD100580,CUST1310,2023-03-22,PROD2148,Beauty,Product_85,,3765.99,Cash on Delivery,Cancelled,Chennai,New,0.09,3,0,3427.05
+ORD100581,CUST1423,2023-07-21,PROD2155,Electrnics,Product_46,1.0,2850.15,Cash on Delivery,Returned,Bangalore,Regular,0.1,6,1,2565.14
+ORD100582,CUST1307,2023-06-07,PROD2189,Books,Product_21,4.0,1306.6,Credit Card,Delivered,Hyderabad,VIP,0.01,8,0,5174.14
+ORD100583,CUST1143,2023-04-30,PROD2262,Home & Kitchen,Product_44,2.0,,Net Banking,Delivered,Delhi,New,0.23,4,0,3350.09
+ORD100584,CUST1268,2023-02-28,PROD2079,Beauty,Product_11,1.0,,Cash on Delivery,Delivered,Mumbai,Regular,0.01,-5,0,3948.62
+ORD100585,CUST1369,2023-08-03,PROD2251,Books,Product_68,3.0,255.71,Cash on Delivery,Cancelled,Delhi,New,0.26,5,0,567.68
+ORD100586,CUST1123,2023-05-08,PROD2096,Electrnics,Product_1,1.0,,Credit Card,Cancelled,Mumbai,Regular,0.04,4,0,3774.77
+ORD100587,CUST1105,2023-08-12,PROD2259,Electrnics,Product_92,3.0,1276.35,Credit Card,Returned,Pune,Regular,0.05,4,1,3637.6
+ORD100588,CUST1157,2023-07-28,PROD2259,Books,Product_63,4.0,807.12,Cash on Delivery,Delivered,Pune,VIP,0.14,4,0,-100.0
+ORD100589,CUST1146,2023-04-25,PROD2102,Fasion,Product_24,,666.94,Net Banking,Cancelled,Hyderabad,VIP,0.22,4,0,520.21
+ORD100590,CUST1144,2023-07-28,PROD2039,Beauty,Product_99,2.0,233.53,Credit Card,Returned,Pune,Regular,0.04,4,1,448.38
+ORD100591,CUST1119,2023-01-14,PROD2272,Home & Kitchen,Product_13,1.0,2665.57,Net Banking,Cancelled,Mumbai,Regular,0.13,5,0,2319.05
+ORD100592,CUST1318,2023-01-09,PROD2100,Books,Product_98,1.0,1169.47,Cash on Delivery,Cancelled,Delhi,VIP,0.14,2,0,1005.74
+ORD100593,CUST1274,2023-02-09,PROD2220,Books,Product_11,1.0,4948.22,Net Banking,Returned,Mumbai,Regular,0.06,2,1,4651.33
+ORD100594,CUST1091,2023-08-25,PROD2123,Beauty,Product_51,4.0,2914.74,Net Banking,Returned,Mumbai,New,0.03,9,1,11309.19
+ORD100595,CUST1057,2023-10-08,PROD2230,Beauty,Product_17,2.0,775.64,Credit Card,Returned,Bangalore,VIP,0.25,2,1,1163.46
+ORD100596,CUST1438,2023-12-25,PROD2177,Fasion,Product_99,1.0,3474.94,UPI,Delivered,Bangalore,VIP,0.15,6,0,2953.7
+ORD100597,CUST1345,2023-07-20,PROD2062,Beauty,Product_82,2.0,4498.94,Cash on Delivery,Cancelled,Delhi,Regular,0.0,2,0,8997.88
+ORD100598,CUST1228,2023-09-03,PROD2115,Beauty,Product_86,4.0,3751.38,Cash on Delivery,Cancelled,Chennai,Regular,0.24,5,0,11404.2
+ORD100599,CUST1473,2023-10-05,PROD2190,Electrnics,Product_24,3.0,474.56,Net Banking,Cancelled,Hyderabad,New,0.29,4,0,1010.81
+ORD100600,CUST1116,2023-08-23,PROD2061,Toys,Product_19,1.0,4489.83,Net Banking,Cancelled,Bangalore,New,0.18,7,0,3681.66
+ORD100601,CUST1317,2023-01-04,PROD2255,Toys,Product_37,2.0,3990.25,Cash on Delivery,Cancelled,Chennai,VIP,0.15,7,0,6783.42
+ORD100602,CUST1278,2023-06-03,PROD2006,Books,Product_85,2.0,875.69,UPI,Returned,Hyderabad,New,0.26,6,1,1296.02
+ORD100603,CUST1126,2023-01-29,PROD2154,Electrnics,Product_8,4.0,353.75,UPI,Cancelled,Delhi,Regular,0.29,5,0,1004.65
+ORD100604,CUST1392,2023-04-19,PROD2091,Beauty,Product_28,,2830.82,Credit Card,Delivered,Mumbai,Regular,0.23,1,0,2179.73
+ORD100605,CUST1395,2023-04-08,PROD2013,Home & Kitchen,Product_5,3.0,864.58,Net Banking,Cancelled,Hyderabad,Regular,0.13,3,0,2256.55
+ORD100606,CUST1128,2023-08-03,PROD2228,Books,Product_17,,,Cash on Delivery,Returned,Pune,VIP,0.18,9,1,6870.78
+ORD100607,CUST1057,2023-10-20,PROD2085,Home & Kitchen,Product_36,1.0,1855.84,Credit Card,Cancelled,Hyderabad,Regular,0.21,1,0,1466.11
+ORD100608,CUST1121,2023-03-16,PROD2132,Toys,Product_19,3.0,4573.17,Net Banking,Returned,Bangalore,Regular,0.06,5,1,12896.34
+ORD100609,CUST1000,2023-11-22,PROD2182,Home & Kitchen,Product_64,2.0,2871.87,Net Banking,Returned,Pune,New,0.13,2,1,4997.05
+ORD100610,CUST1238,2023-05-26,PROD2061,Electrnics,Product_91,2.0,995.09,Net Banking,Delivered,Bangalore,VIP,0.25,4,0,1492.64
+ORD100611,CUST1289,2023-05-08,PROD2218,Electrnics,Product_98,3.0,784.03,Cash on Delivery,Delivered,Bangalore,Regular,0.2,1,0,1881.67
+ORD100612,CUST1095,2023-12-07,PROD2245,Fasion,Product_11,3.0,2924.71,Net Banking,Returned,Pune,VIP,0.12,3,1,7721.23
+ORD100613,CUST1125,2023-02-11,PROD2229,Electrnics,Product_54,4.0,3833.23,UPI,Cancelled,Pune,VIP,0.2,7,0,12266.34
+ORD100614,CUST1117,2023-12-22,PROD2078,Beauty,Product_45,1.0,3929.38,UPI,Delivered,Bangalore,New,0.04,3,0,3772.2
+ORD100615,CUST1047,2023-02-10,PROD2148,Books,Product_47,1.0,1451.21,Net Banking,Returned,Pune,VIP,0.12,4,1,1277.06
+ORD100616,CUST1088,2023-02-03,PROD2137,Electrnics,Product_12,4.0,1100.81,UPI,Returned,Delhi,VIP,0.24,2,1,3346.46
+ORD100617,CUST1487,2023-01-17,PROD2064,Books,Product_21,2.0,182.11,UPI,Returned,Pune,VIP,0.07,3,1,338.72
+ORD100618,CUST1236,2023-06-14,PROD2012,Electrnics,Product_11,3.0,3428.08,Net Banking,,Hyderabad,Regular,0.06,9,0,9667.19
+ORD100619,CUST1372,2023-06-02,PROD2212,Toys,Product_92,3.0,475.18,UPI,Delivered,Mumbai,New,0.29,3,0,1012.13
+ORD100620,CUST1384,2023-03-17,PROD2241,Beauty,Product_5,3.0,2161.73,UPI,Cancelled,Pune,New,0.06,5,0,6096.08
+ORD100621,CUST1271,2023-03-28,PROD2212,Books,Product_81,2.0,3048.24,Credit Card,Cancelled,Mumbai,New,0.08,2,0,5608.76
+ORD100622,CUST1188,2023-04-27,PROD2180,Electrnics,Product_56,3.0,4691.83,Cash on Delivery,Delivered,Mumbai,New,0.29,4,0,9993.6
+ORD100623,CUST1486,2023-12-28,PROD2172,Toys,Product_20,3.0,1627.83,Net Banking,Delivered,Delhi,New,0.22,7,0,3809.12
+ORD100624,CUST1191,2023-12-08,PROD2159,Fasion,Product_41,4.0,1323.88,Net Banking,Returned,Chennai,New,0.21,7,1,4183.46
+ORD100625,CUST1446,2023-01-27,PROD2163,Toys,Product_46,2.0,3305.38,Credit Card,Returned,Delhi,VIP,0.26,3,1,4891.96
+ORD100626,CUST1068,2023-11-09,PROD2187,Fasion,Product_12,1.0,3134.27,Net Banking,Delivered,Pune,Regular,0.03,5,0,3040.24
+ORD100627,CUST1277,2023-10-14,PROD2190,Fasion,Product_70,4.0,1727.34,Net Banking,Delivered,Pune,Regular,0.21,1,0,5458.39
+ORD100628,CUST1348,2023-05-14,PROD2255,Fasion,Product_17,4.0,4647.7,Cash on Delivery,Returned,Hyderabad,VIP,0.15,-5,1,15802.18
+ORD100629,CUST1246,2023-08-07,PROD2182,Beauty,Product_19,1.0,4239.83,UPI,Cancelled,Mumbai,New,0.25,5,0,3179.87
+ORD100630,CUST1450,2023-06-17,PROD2116,Toys,Product_26,4.0,1197.51,Credit Card,Delivered,Mumbai,Regular,0.15,9,0,4071.53
+ORD100631,CUST1075,2023-04-08,PROD2281,Home & Kitchen,Product_48,2.0,1271.8,UPI,Returned,Chennai,VIP,0.19,1,1,2060.32
+ORD100632,CUST1153,2023-09-25,PROD2195,Beauty,Product_52,3.0,2610.27,UPI,Returned,Chennai,New,0.14,1,1,6734.5
+ORD100633,CUST1143,2023-08-25,PROD2033,Fasion,Product_96,2.0,3890.5,Net Banking,Delivered,Mumbai,Regular,0.14,4,0,6691.66
+ORD100634,CUST1434,2023-11-05,PROD2051,Books,Product_70,1.0,315.8,UPI,Cancelled,Delhi,Regular,0.23,4,0,243.17
+ORD100635,CUST1484,2023-06-22,PROD2111,Fasion,Product_55,1.0,3497.34,Net Banking,Returned,Bangalore,Regular,0.19,2,1,2832.85
+ORD100636,CUST1085,2023-07-09,PROD2251,Books,Product_75,4.0,3276.36,Cash on Delivery,Returned,Hyderabad,VIP,0.19,9,1,10615.41
+ORD100637,CUST1184,2023-05-02,PROD2081,Fasion,Product_33,,1234.25,UPI,Cancelled,Delhi,New,0.14,9,0,2122.91
+ORD100638,CUST1284,2023-02-15,PROD2231,Beauty,Product_62,2.0,3438.63,UPI,Returned,Pune,New,0.16,2,1,5776.9
+ORD100639,CUST1461,2023-03-05,PROD2226,Electrnics,Product_88,,4706.9,Net Banking,Delivered,Pune,New,0.22,9,0,3671.38
+ORD100640,CUST1219,2023-05-10,PROD2232,Home & Kitchen,Product_23,2.0,329.25,UPI,Delivered,Mumbai,New,0.25,6,0,493.88
+ORD100641,CUST1068,2023-11-06,PROD2220,Beauty,Product_15,1.0,1666.3,Credit Card,Delivered,Bangalore,New,0.21,8,0,1316.38
+ORD100642,CUST1046,2023-12-29,PROD2041,Toys,Product_27,2.0,2247.07,UPI,Returned,Hyderabad,VIP,0.28,4,1,3235.78
+ORD100643,CUST1496,2023-07-12,PROD2020,Beauty,Product_75,2.0,4506.38,Cash on Delivery,Delivered,Delhi,Regular,0.25,2,0,6759.57
+ORD100644,CUST1093,2023-11-03,PROD2041,Books,Product_64,2.0,,UPI,Cancelled,Mumbai,VIP,0.17,2,0,7993.03
+ORD100645,CUST1237,2023-06-30,PROD2112,Books,Product_81,1.0,2276.16,UPI,Delivered,Mumbai,VIP,0.2,9,0,1820.93
+ORD100646,CUST1445,2023-10-19,PROD2104,Home & Kitchen,Product_51,4.0,3775.14,Credit Card,Cancelled,Delhi,New,0.28,1,0,10872.4
+ORD100647,CUST1499,2023-10-09,PROD2191,Books,Product_53,2.0,2705.14,Net Banking,Returned,Mumbai,VIP,0.19,7,1,4382.33
+ORD100648,CUST1452,2023-01-29,PROD2016,Books,Product_78,1.0,2735.14,UPI,Returned,Pune,New,0.25,3,1,2051.36
+ORD100649,CUST1203,2023-05-29,PROD2119,Home & Kitchen,Product_91,1.0,1462.69,Net Banking,Delivered,Bangalore,New,0.21,-5,0,1155.53
+ORD100650,CUST1399,2023-09-24,PROD2128,Electrnics,Product_82,2.0,1163.09,Cash on Delivery,Delivered,Delhi,New,0.17,2,0,1930.73
+ORD100651,CUST1217,2023-10-23,PROD2129,Beauty,Product_92,,1511.23,Cash on Delivery,Cancelled,Hyderabad,New,0.07,6,0,2810.89
+ORD100652,CUST1473,2023-01-11,PROD2059,Toys,Product_51,4.0,2826.01,Cash on Delivery,Delivered,Hyderabad,New,0.13,2,0,9834.51
+ORD100653,CUST1431,2023-06-13,PROD2047,Toys,Product_47,1.0,242.86,Credit Card,Delivered,Bangalore,Regular,0.29,4,0,172.43
+ORD100654,CUST1340,2023-04-23,PROD2028,Fasion,Product_4,1.0,4545.52,Credit Card,Delivered,Delhi,New,0.2,9,0,3636.42
+ORD100655,CUST1038,2023-07-06,PROD2096,Electrnics,Product_7,3.0,,Credit Card,Delivered,Hyderabad,Regular,0.17,9,0,2155.82
+ORD100656,CUST1099,2023-10-22,PROD2009,Beauty,Product_35,1.0,,Credit Card,Delivered,Mumbai,VIP,0.28,6,0,848.47
+ORD100657,CUST1288,2023-08-20,PROD2241,Electrnics,Product_48,4.0,2639.55,UPI,Cancelled,Mumbai,New,0.18,4,0,-100.0
+ORD100658,CUST1253,2023-08-15,PROD2231,Books,Product_73,3.0,3579.56,Net Banking,Delivered,Bangalore,New,0.16,7,0,9020.49
+ORD100659,CUST1221,2023-11-06,PROD2276,Beauty,Product_72,3.0,569.07,Net Banking,Returned,Pune,VIP,0.23,1,1,1314.55
+ORD100660,CUST1356,2023-04-08,PROD2283,Beauty,Product_45,3.0,1656.7,Credit Card,Delivered,Bangalore,Regular,0.21,4,0,3926.38
+ORD100661,CUST1022,2023-02-24,PROD2202,Books,Product_81,2.0,4846.51,UPI,Delivered,Delhi,Regular,0.06,5,0,9111.44
+ORD100662,CUST1249,2023-04-21,PROD2246,Books,Product_81,2.0,1385.48,Net Banking,Delivered,Bangalore,Regular,0.14,8,0,2383.03
+ORD100663,CUST1009,2023-06-01,PROD2289,Home & Kitchen,Product_97,1.0,1633.95,Cash on Delivery,Delivered,Pune,VIP,0.14,2,0,1405.2
+ORD100664,CUST1245,2023-09-03,PROD2263,Toys,Product_96,3.0,4198.84,UPI,Cancelled,Hyderabad,Regular,0.11,5,0,-100.0
+ORD100665,CUST1324,2023-03-10,PROD2213,Beauty,Product_72,4.0,346.05,Credit Card,Delivered,Bangalore,New,0.16,6,0,1162.73
+ORD100666,CUST1099,2023-11-08,PROD2199,Electrnics,Product_19,2.0,2376.6,Cash on Delivery,Returned,Pune,Regular,0.12,5,1,4182.82
+ORD100667,CUST1289,2023-10-16,PROD2078,Fasion,Product_63,4.0,1960.12,Net Banking,Returned,Bangalore,Regular,0.06,9,1,7370.05
+ORD100668,CUST1179,2023-09-07,PROD2172,Electrnics,Product_38,4.0,1651.28,Credit Card,Delivered,Bangalore,New,0.12,1,0,5812.51
+ORD100669,CUST1222,2023-02-05,PROD2068,Home & Kitchen,Product_67,2.0,1499.93,Cash on Delivery,Cancelled,Chennai,New,0.02,3,0,2939.86
+ORD100670,CUST1393,2023-08-27,PROD2086,Books,Product_59,2.0,547.73,Net Banking,Cancelled,Mumbai,New,0.17,-5,0,909.23
+ORD100671,CUST1249,2023-05-28,PROD2100,Fasion,Product_69,2.0,1642.65,UPI,Cancelled,Mumbai,New,0.26,3,0,2431.12
+ORD100672,CUST1146,2023-08-15,PROD2007,Electrnics,Product_13,2.0,310.96,Net Banking,Cancelled,Delhi,VIP,0.22,9,0,485.1
+ORD100673,CUST1441,2023-09-01,PROD2199,Home & Kitchen,Product_47,3.0,3926.72,Credit Card,Returned,Delhi,New,0.11,9,1,10484.34
+ORD100674,CUST1095,2023-12-03,PROD2086,Electrnics,Product_61,3.0,2051.32,UPI,Cancelled,Delhi,Regular,0.03,2,0,5969.34
+ORD100675,CUST1256,2023-12-31,PROD2042,Beauty,Product_31,,2275.13,Credit Card,Returned,Bangalore,VIP,0.06,3,1,6415.87
+ORD100676,CUST1324,2023-07-20,PROD2108,Toys,Product_80,3.0,4478.61,Credit Card,Delivered,Hyderabad,New,0.16,4,0,11286.1
+ORD100677,CUST1492,2023-06-03,PROD2151,Toys,Product_96,,,Credit Card,Cancelled,Bangalore,New,0.06,9,0,3125.0
+ORD100678,CUST1003,2023-03-14,PROD2016,Home & Kitchen,Product_22,3.0,139.49,Credit Card,Returned,Delhi,VIP,0.16,3,1,351.51
+ORD100679,CUST1015,2023-07-20,PROD2132,Home & Kitchen,Product_93,2.0,4721.56,Net Banking,Delivered,Chennai,Regular,0.07,7,0,8782.1
+ORD100680,CUST1279,2023-10-23,PROD2147,Beauty,Product_86,4.0,1262.01,Credit Card,Cancelled,Pune,Regular,0.25,-5,0,3786.03
+ORD100681,CUST1335,2023-01-17,PROD2276,Toys,Product_43,3.0,627.31,Net Banking,,Mumbai,VIP,0.12,7,0,1656.1
+ORD100682,CUST1246,2023-05-09,PROD2231,Electrnics,Product_67,1.0,3863.83,Cash on Delivery,Returned,Pune,VIP,0.07,7,1,3593.36
+ORD100683,CUST1257,2023-08-05,PROD2227,Toys,Product_54,2.0,2552.34,Net Banking,Delivered,Bangalore,New,0.24,9,0,3879.56
+ORD100684,CUST1496,2023-03-02,PROD2138,Electrnics,Product_10,4.0,2225.48,UPI,Cancelled,Hyderabad,VIP,0.1,2,0,8011.73
+ORD100685,CUST1475,2023-04-14,PROD2210,Toys,Product_42,4.0,1322.57,Credit Card,Delivered,Mumbai,Regular,0.03,6,0,5131.57
+ORD100686,CUST1383,2023-02-11,PROD2027,Beauty,Product_64,3.0,2782.61,Credit Card,,Pune,New,0.17,9,0,6928.7
+ORD100687,CUST1159,2023-01-25,PROD2050,Beauty,Product_21,4.0,1444.48,Credit Card,Cancelled,Chennai,New,0.17,2,0,4795.67
+ORD100688,CUST1474,2023-02-08,PROD2260,Beauty,Product_80,3.0,,Credit Card,Delivered,Bangalore,Regular,0.21,-5,0,10707.09
+ORD100689,CUST1339,2023-10-18,PROD2260,Toys,Product_76,3.0,1154.5,Net Banking,Delivered,Chennai,New,0.07,5,0,3221.06
+ORD100690,CUST1151,2023-05-11,PROD2007,Home & Kitchen,Product_66,2.0,4433.34,UPI,Cancelled,Pune,Regular,0.13,8,0,7714.01
+ORD100691,CUST1395,2023-08-17,PROD2137,Books,Product_41,,2841.09,Credit Card,Returned,Bangalore,New,0.08,9,1,5227.61
+ORD100692,CUST1177,2023-04-18,PROD2037,Books,Product_24,1.0,4159.59,Cash on Delivery,Cancelled,Hyderabad,VIP,0.02,2,0,4076.4
+ORD100693,CUST1162,2023-06-21,PROD2110,Toys,Product_35,2.0,3592.95,Cash on Delivery,Returned,Chennai,VIP,0.26,5,1,-100.0
+ORD100694,CUST1379,2023-04-12,PROD2219,Fasion,Product_56,2.0,3513.81,UPI,Cancelled,Chennai,New,0.22,7,0,5481.54
+ORD100695,CUST1032,2023-12-20,PROD2222,Home & Kitchen,Product_30,3.0,1689.29,Net Banking,Cancelled,Bangalore,Regular,0.09,6,0,4611.76
+ORD100696,CUST1416,2023-01-12,PROD2135,Fasion,Product_57,2.0,1246.09,Credit Card,Delivered,Delhi,New,0.18,6,0,-100.0
+ORD100697,CUST1444,2023-10-02,PROD2255,Books,Product_94,3.0,,Net Banking,,Chennai,VIP,0.06,7,0,3196.02
+ORD100698,CUST1178,2023-04-11,PROD2048,Home & Kitchen,Product_47,3.0,4300.24,UPI,Cancelled,Mumbai,Regular,0.27,3,0,9417.53
+ORD100699,CUST1426,2023-02-13,PROD2291,Books,Product_35,2.0,4120.09,Credit Card,Returned,Delhi,Regular,0.03,3,1,7992.97
+ORD100700,CUST1100,2023-11-01,PROD2077,Home & Kitchen,Product_19,1.0,2258.81,Credit Card,Delivered,Chennai,VIP,0.0,9,0,2258.81
+ORD100701,CUST1267,2023-01-17,PROD2104,Fasion,Product_8,1.0,748.78,UPI,Returned,Pune,New,0.15,8,1,636.46
+ORD100702,CUST1322,2023-11-26,PROD2168,Electrnics,Product_26,4.0,1973.04,Cash on Delivery,Delivered,Pune,Regular,0.17,5,0,6550.49
+ORD100703,CUST1064,2023-02-26,PROD2216,Beauty,Product_71,4.0,3134.78,Credit Card,Returned,Chennai,Regular,0.17,6,1,10407.47
+ORD100704,CUST1416,2023-11-07,PROD2118,Beauty,Product_30,2.0,2326.58,Net Banking,Cancelled,Hyderabad,Regular,0.02,1,0,4560.1
+ORD100705,CUST1167,2023-10-30,PROD2189,Electrnics,Product_7,1.0,3922.93,Cash on Delivery,Delivered,Delhi,New,0.09,-5,0,3569.87
+ORD100706,CUST1329,2023-01-12,PROD2254,Fasion,Product_67,3.0,4988.35,UPI,Returned,Chennai,VIP,0.15,4,1,12720.29
+ORD100707,CUST1042,2023-11-14,PROD2265,Beauty,Product_65,4.0,1036.55,Credit Card,Returned,Delhi,Regular,0.06,2,1,3897.43
+ORD100708,CUST1043,2023-03-21,PROD2148,Toys,Product_36,3.0,2352.29,Credit Card,Returned,Pune,VIP,0.26,7,1,5222.08
+ORD100709,CUST1284,2023-08-04,PROD2163,Books,Product_25,4.0,,UPI,Returned,Delhi,Regular,0.03,2,1,8581.86
+ORD100710,CUST1396,2023-12-05,PROD2139,Fasion,Product_37,2.0,1592.01,UPI,Returned,Bangalore,Regular,0.15,2,1,-100.0
+ORD100711,CUST1011,2023-09-21,PROD2257,Electrnics,Product_1,1.0,1070.67,Credit Card,Returned,Chennai,New,0.21,5,1,845.83
+ORD100712,CUST1094,2023-05-29,PROD2268,Toys,Product_15,4.0,421.89,Net Banking,,Hyderabad,New,0.08,4,0,1552.56
+ORD100713,CUST1301,2023-03-22,PROD2180,Beauty,Product_37,,4446.88,Credit Card,,Bangalore,VIP,0.19,8,0,3601.97
+ORD100714,CUST1385,2023-08-03,PROD2159,Toys,Product_13,3.0,2157.26,Net Banking,Returned,Mumbai,Regular,0.25,4,1,4853.84
+ORD100715,CUST1252,2023-07-17,PROD2287,Home & Kitchen,Product_8,2.0,2534.79,Cash on Delivery,Delivered,Hyderabad,Regular,0.06,6,0,4765.41
+ORD100716,CUST1498,2023-07-19,PROD2287,Books,Product_5,1.0,4593.02,Credit Card,Returned,Mumbai,New,0.28,5,1,3306.97
+ORD100717,CUST1241,2023-01-25,PROD2225,Beauty,Product_60,2.0,3903.82,Credit Card,Delivered,Delhi,Regular,0.17,2,0,6480.34
+ORD100718,CUST1034,2023-03-30,PROD2010,Electrnics,Product_73,1.0,739.46,Cash on Delivery,Cancelled,Delhi,VIP,0.09,8,0,672.91
+ORD100719,CUST1214,2023-09-25,PROD2009,Toys,Product_1,3.0,2870.56,Cash on Delivery,Cancelled,Pune,VIP,0.13,2,0,7492.16
+ORD100720,CUST1336,2023-05-23,PROD2270,Books,Product_36,3.0,,Net Banking,Cancelled,Delhi,Regular,0.09,9,0,6189.02
+ORD100721,CUST1089,2023-02-28,PROD2272,Electrnics,Product_35,2.0,4006.33,UPI,Cancelled,Delhi,VIP,0.22,9,0,6249.87
+ORD100722,CUST1263,2023-12-31,PROD2182,Fasion,Product_66,3.0,3648.74,Credit Card,Returned,Mumbai,VIP,0.24,3,1,8319.13
+ORD100723,CUST1092,2023-01-26,PROD2152,Electrnics,Product_63,4.0,3482.99,Cash on Delivery,Returned,Mumbai,VIP,0.25,4,1,10448.97
+ORD100724,CUST1409,2023-02-16,PROD2123,Beauty,Product_23,,1768.67,Net Banking,Returned,Bangalore,Regular,0.3,8,1,1238.07
+ORD100725,CUST1457,2023-10-15,PROD2113,Home & Kitchen,Product_9,,4044.32,Net Banking,Returned,Bangalore,Regular,0.24,9,1,9221.05
+ORD100726,CUST1089,2023-09-23,PROD2277,Home & Kitchen,Product_34,4.0,356.72,Net Banking,Delivered,Pune,VIP,0.18,3,0,1170.04
+ORD100727,CUST1417,2023-01-16,PROD2212,Home & Kitchen,Product_46,2.0,882.16,UPI,Cancelled,Pune,VIP,0.1,5,0,1587.89
+ORD100728,CUST1114,2023-07-18,PROD2171,Electrnics,Product_78,4.0,1744.55,Credit Card,Returned,Chennai,Regular,0.16,8,1,5861.69
+ORD100729,CUST1104,2023-10-09,PROD2287,Electrnics,Product_4,2.0,476.36,Net Banking,Returned,Mumbai,New,0.01,3,1,943.19
+ORD100730,CUST1390,2023-03-27,PROD2173,Books,Product_30,,1251.47,Net Banking,Delivered,Delhi,Regular,0.22,7,0,-100.0
+ORD100731,CUST1195,2023-09-07,PROD2112,Books,Product_95,1.0,4167.74,Cash on Delivery,Returned,Chennai,New,0.13,8,1,3625.93
+ORD100732,CUST1313,2023-09-27,PROD2121,Toys,Product_75,,,Net Banking,Returned,Mumbai,Regular,0.01,3,1,4698.97
+ORD100733,CUST1113,2023-12-01,PROD2031,Electrnics,Product_99,,1592.55,Net Banking,Returned,Hyderabad,Regular,0.02,2,1,6242.8
+ORD100734,CUST1492,2023-04-27,PROD2221,Electrnics,Product_72,1.0,1396.13,Net Banking,Returned,Hyderabad,New,0.12,7,1,1228.59
+ORD100735,CUST1074,2023-01-07,PROD2118,Electrnics,Product_3,1.0,1471.47,Net Banking,,Hyderabad,VIP,0.18,9,1,1206.61
+ORD100736,CUST1412,2023-05-17,PROD2038,Electrnics,Product_14,,1460.82,UPI,Cancelled,Chennai,VIP,0.14,1,0,1256.31
+ORD100737,CUST1375,2023-06-25,PROD2267,Books,Product_60,4.0,276.06,Cash on Delivery,Delivered,Pune,Regular,0.19,3,0,894.43
+ORD100738,CUST1419,2023-11-24,PROD2232,Toys,Product_77,3.0,4641.89,Credit Card,Returned,Hyderabad,New,0.14,5,1,11976.08
+ORD100739,CUST1216,2023-11-11,PROD2017,Toys,Product_45,,1147.12,UPI,Returned,Delhi,VIP,0.2,3,1,917.7
+ORD100740,CUST1276,2023-08-03,PROD2148,Home & Kitchen,Product_96,,2158.02,Credit Card,Returned,Mumbai,VIP,0.07,1,1,2006.96
+ORD100741,CUST1248,2023-03-23,PROD2148,Electrnics,Product_34,4.0,147.47,Cash on Delivery,Cancelled,Chennai,Regular,0.03,7,0,572.18
+ORD100742,CUST1163,2023-08-11,PROD2125,Toys,Product_45,3.0,4303.98,UPI,Cancelled,Mumbai,Regular,0.18,7,0,10587.79
+ORD100743,CUST1393,2023-04-13,PROD2237,Fasion,Product_61,1.0,3682.67,Cash on Delivery,Delivered,Delhi,VIP,0.15,8,0,3130.27
+ORD100744,CUST1356,2023-09-30,PROD2134,Books,Product_83,2.0,4739.1,UPI,Returned,Delhi,VIP,0.01,-5,1,9383.42
+ORD100745,CUST1456,2023-01-14,PROD2150,Electrnics,Product_16,4.0,3929.92,Net Banking,Delivered,Bangalore,New,0.11,5,0,13990.52
+ORD100746,CUST1407,2023-06-08,PROD2235,Electrnics,Product_66,1.0,1637.16,Net Banking,Delivered,Pune,Regular,0.03,5,0,1588.05
+ORD100747,CUST1191,2023-06-01,PROD2223,Books,Product_40,1.0,1314.58,Credit Card,Delivered,Chennai,Regular,0.16,1,0,1104.25
+ORD100748,CUST1226,2023-04-18,PROD2202,Toys,Product_17,2.0,3518.81,Credit Card,Cancelled,Pune,Regular,0.12,5,0,6193.11
+ORD100749,CUST1176,2023-07-07,PROD2255,Beauty,Product_34,2.0,1884.15,Cash on Delivery,Returned,Mumbai,New,0.18,6,1,3090.01
+ORD100750,CUST1098,2023-10-28,PROD2085,Toys,Product_16,4.0,2874.45,Net Banking,Delivered,Chennai,VIP,0.24,1,0,8738.33
+ORD100751,CUST1495,2023-04-08,PROD2149,Home & Kitchen,Product_60,4.0,130.66,UPI,Returned,Pune,VIP,0.09,7,1,475.6
+ORD100752,CUST1035,2023-05-11,PROD2234,Toys,Product_66,2.0,403.24,Net Banking,Returned,Delhi,Regular,0.29,1,1,572.6
+ORD100753,CUST1465,2023-10-20,PROD2021,Electrnics,Product_66,4.0,2723.3,Net Banking,Delivered,Delhi,VIP,0.16,2,0,9150.29
+ORD100754,CUST1496,2023-06-20,PROD2284,Electrnics,Product_90,,2873.75,Cash on Delivery,Cancelled,Chennai,VIP,0.19,2,0,4655.48
+ORD100755,CUST1486,2023-07-02,PROD2268,Fasion,Product_13,1.0,,Credit Card,Delivered,Delhi,New,0.2,5,0,3025.7
+ORD100756,CUST1095,2023-12-30,PROD2257,Electrnics,Product_56,2.0,746.63,Net Banking,Cancelled,Chennai,New,0.2,-5,0,1194.61
+ORD100757,CUST1151,2023-02-08,PROD2028,Beauty,Product_31,2.0,2614.6,Credit Card,Returned,Chennai,New,0.15,1,1,4444.82
+ORD100758,CUST1150,2023-01-15,PROD2212,Books,Product_34,3.0,1052.79,Credit Card,Delivered,Chennai,New,0.13,1,0,2747.78
+ORD100759,CUST1189,2023-01-04,PROD2282,Books,Product_39,2.0,556.66,Net Banking,Returned,Chennai,VIP,0.02,1,1,1091.05
+ORD100760,CUST1223,2023-12-15,PROD2049,Books,Product_67,2.0,2111.43,Net Banking,Cancelled,Mumbai,Regular,0.01,-5,0,4180.63
+ORD100761,CUST1036,2023-07-29,PROD2094,Beauty,Product_8,,900.35,Cash on Delivery,Delivered,Mumbai,New,0.11,2,0,2403.93
+ORD100762,CUST1267,2023-06-10,PROD2087,Fasion,Product_87,4.0,1186.73,Net Banking,Cancelled,Hyderabad,Regular,0.1,1,0,4272.23
+ORD100763,CUST1368,2023-01-16,PROD2043,Fasion,Product_78,3.0,,Credit Card,Returned,Hyderabad,VIP,0.12,6,1,4371.89
+ORD100764,CUST1182,2023-04-18,PROD2277,Electrnics,Product_55,1.0,1371.0,Credit Card,Cancelled,Mumbai,Regular,0.04,2,0,1316.16
+ORD100765,CUST1012,2023-11-07,PROD2170,Electrnics,Product_27,3.0,529.2,Cash on Delivery,Returned,Bangalore,New,0.22,6,1,1238.33
+ORD100766,CUST1278,2023-08-15,PROD2188,Toys,Product_93,1.0,540.59,Credit Card,Cancelled,Delhi,New,0.26,8,0,400.04
+ORD100767,CUST1216,2023-06-19,PROD2183,Beauty,Product_53,4.0,1046.92,Net Banking,Cancelled,Chennai,VIP,0.28,2,0,3015.13
+ORD100768,CUST1354,2023-02-03,PROD2002,Electrnics,Product_39,3.0,347.74,Net Banking,Returned,Mumbai,New,0.15,9,1,886.74
+ORD100769,CUST1360,2023-09-08,PROD2190,Electrnics,Product_65,3.0,3169.64,Net Banking,Returned,Mumbai,New,0.21,8,1,7512.05
+ORD100770,CUST1285,2023-09-04,PROD2117,Books,Product_17,4.0,1507.9,Credit Card,,Mumbai,Regular,0.26,1,1,4463.38
+ORD100771,CUST1272,2023-09-26,PROD2018,Toys,Product_30,1.0,1470.76,Net Banking,Delivered,Chennai,VIP,0.13,7,0,1279.56
+ORD100772,CUST1368,2023-05-21,PROD2022,Beauty,Product_53,3.0,,UPI,Delivered,Hyderabad,New,0.09,6,0,4714.14
+ORD100773,CUST1061,2023-10-01,PROD2029,Home & Kitchen,Product_13,1.0,3347.7,Cash on Delivery,Delivered,Hyderabad,Regular,0.28,6,0,2410.34
+ORD100774,CUST1083,2023-04-06,PROD2294,Beauty,Product_21,3.0,4366.11,Cash on Delivery,Cancelled,Bangalore,New,0.15,6,0,11133.58
+ORD100775,CUST1367,2023-08-15,PROD2107,Electrnics,Product_19,2.0,3819.53,UPI,Cancelled,Hyderabad,Regular,0.15,6,0,6493.2
+ORD100776,CUST1216,2023-02-08,PROD2280,Toys,Product_53,3.0,,Cash on Delivery,Cancelled,Mumbai,New,0.05,-5,0,10444.94
+ORD100777,CUST1341,2023-10-29,PROD2127,Fasion,Product_19,4.0,2473.52,Cash on Delivery,Returned,Bangalore,VIP,0.03,3,1,9597.26
+ORD100778,CUST1396,2023-01-29,PROD2228,Beauty,Product_57,,3499.65,Net Banking,Delivered,Delhi,Regular,0.25,6,0,10498.95
+ORD100779,CUST1186,2023-11-14,PROD2110,Books,Product_25,1.0,,Cash on Delivery,Returned,Pune,Regular,0.18,3,1,2303.0
+ORD100780,CUST1018,2023-09-02,PROD2135,Fasion,Product_86,,1159.63,UPI,Delivered,Mumbai,Regular,0.1,7,0,3131.0
+ORD100781,CUST1176,2023-08-24,PROD2185,Beauty,Product_31,1.0,1122.08,Net Banking,Cancelled,Hyderabad,Regular,0.06,-5,0,1054.76
+ORD100782,CUST1099,2023-07-04,PROD2143,Beauty,Product_81,1.0,1552.32,UPI,Cancelled,Mumbai,Regular,0.17,8,0,1288.43
+ORD100783,CUST1395,2023-09-29,PROD2071,Home & Kitchen,Product_55,2.0,,Credit Card,Delivered,Delhi,Regular,0.18,2,0,7483.21
+ORD100784,CUST1444,2023-08-24,PROD2128,Toys,Product_23,2.0,2782.33,UPI,Returned,Delhi,VIP,0.06,9,1,5230.78
+ORD100785,CUST1232,2023-08-27,PROD2260,Home & Kitchen,Product_32,4.0,3696.14,Net Banking,Returned,Chennai,New,0.26,5,1,10940.57
+ORD100786,CUST1402,2023-09-23,PROD2002,Books,Product_62,1.0,1798.14,Net Banking,Delivered,Pune,Regular,0.03,9,0,1744.2
+ORD100787,CUST1075,2023-12-25,PROD2103,Toys,Product_74,4.0,2097.81,Credit Card,Returned,Chennai,VIP,0.11,5,1,7468.2
+ORD100788,CUST1264,2023-12-06,PROD2223,Home & Kitchen,Product_10,3.0,715.27,UPI,Delivered,Chennai,Regular,0.2,7,0,1716.65
+ORD100789,CUST1454,2023-03-06,PROD2009,Beauty,Product_72,1.0,939.35,UPI,Delivered,Delhi,VIP,0.08,9,0,864.2
+ORD100790,CUST1283,2023-06-26,PROD2230,Electrnics,Product_54,1.0,4154.05,Net Banking,Cancelled,Hyderabad,VIP,0.25,4,0,3115.54
+ORD100791,CUST1205,2023-01-03,PROD2218,Electrnics,Product_52,3.0,2965.71,Credit Card,Cancelled,Hyderabad,Regular,0.22,2,0,6939.76
+ORD100792,CUST1222,2023-05-22,PROD2065,Fasion,Product_20,3.0,1753.91,Net Banking,Cancelled,Delhi,New,0.24,9,0,3998.91
+ORD100793,CUST1383,2023-06-07,PROD2111,Home & Kitchen,Product_32,4.0,4033.97,Cash on Delivery,Returned,Pune,New,0.04,2,1,15490.44
+ORD100794,CUST1051,2023-11-20,PROD2012,Fasion,Product_14,4.0,1307.95,Net Banking,Delivered,Mumbai,Regular,0.04,3,0,5022.53
+ORD100795,CUST1338,2023-05-26,PROD2085,Toys,Product_50,3.0,4882.56,Cash on Delivery,Returned,Hyderabad,New,0.09,2,1,13329.39
+ORD100796,CUST1366,2023-10-20,PROD2233,Home & Kitchen,Product_28,4.0,1789.61,Cash on Delivery,Returned,Bangalore,VIP,0.16,-5,1,6013.09
+ORD100797,CUST1143,2023-06-02,PROD2089,Books,Product_53,,,Credit Card,Returned,Pune,VIP,0.22,-5,1,4101.6
+ORD100798,CUST1372,2023-07-12,PROD2053,Books,Product_24,1.0,1628.37,Cash on Delivery,Cancelled,Delhi,New,0.25,3,0,1221.28
+ORD100799,CUST1068,2023-03-14,PROD2011,Home & Kitchen,Product_79,1.0,698.35,Cash on Delivery,Returned,Pune,VIP,0.21,8,1,551.7
+ORD100800,CUST1098,2023-11-01,PROD2208,Books,Product_22,2.0,644.57,Net Banking,Returned,Delhi,New,0.28,6,1,928.18
+ORD100801,CUST1395,2023-12-10,PROD2013,Fasion,Product_30,1.0,3275.71,Cash on Delivery,Delivered,Chennai,VIP,0.22,7,0,2555.05
+ORD100802,CUST1024,2023-05-20,PROD2120,Beauty,Product_63,3.0,4388.08,UPI,Cancelled,Hyderabad,New,0.09,1,0,11979.46
+ORD100803,CUST1435,2023-07-06,PROD2019,Electrnics,Product_4,4.0,3973.55,UPI,Cancelled,Hyderabad,New,0.08,-5,0,14622.66
+ORD100804,CUST1378,2023-10-20,PROD2074,Electrnics,Product_77,2.0,791.43,Cash on Delivery,Cancelled,Mumbai,Regular,0.21,3,0,1250.46
+ORD100805,CUST1468,2023-03-02,PROD2242,Home & Kitchen,Product_59,4.0,2773.35,Cash on Delivery,Delivered,Mumbai,New,0.06,2,0,-100.0
+ORD100806,CUST1483,2023-07-17,PROD2222,Beauty,Product_87,3.0,617.4,Net Banking,Returned,Chennai,Regular,0.03,-5,1,1796.63
+ORD100807,CUST1052,2023-10-22,PROD2069,Home & Kitchen,Product_8,1.0,321.94,Cash on Delivery,Returned,Chennai,Regular,0.16,9,1,270.43
+ORD100808,CUST1150,2023-11-15,PROD2210,Electrnics,Product_82,2.0,3316.29,Credit Card,Delivered,Delhi,VIP,0.25,4,0,4974.43
+ORD100809,CUST1143,2023-10-29,PROD2100,Fasion,Product_12,3.0,,Cash on Delivery,Returned,Chennai,VIP,0.03,5,1,7921.75
+ORD100810,CUST1056,2023-12-10,PROD2185,Fasion,Product_31,2.0,501.92,Cash on Delivery,Returned,Pune,New,0.24,3,1,762.92
+ORD100811,CUST1038,2023-01-11,PROD2131,Toys,Product_78,2.0,271.2,Credit Card,Delivered,Bangalore,VIP,0.24,9,0,412.22
+ORD100812,CUST1108,2023-03-03,PROD2110,Books,Product_34,1.0,4949.81,Credit Card,Delivered,Delhi,VIP,0.14,4,0,4256.84
+ORD100813,CUST1180,2023-11-29,PROD2131,Home & Kitchen,Product_82,,247.1,Net Banking,Returned,Hyderabad,Regular,0.02,5,1,726.47
+ORD100814,CUST1041,2023-08-14,PROD2019,Fasion,Product_98,,2278.19,Credit Card,Delivered,Chennai,New,0.05,1,0,8657.12
+ORD100815,CUST1185,2023-06-02,PROD2023,Beauty,Product_75,2.0,2572.63,Cash on Delivery,Cancelled,Bangalore,VIP,0.21,2,0,4064.76
+ORD100816,CUST1422,2023-07-18,PROD2226,Beauty,Product_76,2.0,674.67,Net Banking,Cancelled,Bangalore,VIP,0.21,9,0,1065.98
+ORD100817,CUST1397,2023-02-21,PROD2153,Electrnics,Product_49,4.0,928.4,UPI,Cancelled,Hyderabad,New,0.27,2,0,2710.93
+ORD100818,CUST1222,2023-09-17,PROD2292,Toys,Product_79,3.0,1823.84,Net Banking,Cancelled,Hyderabad,Regular,0.17,5,0,4541.36
+ORD100819,CUST1121,2023-02-28,PROD2229,Toys,Product_57,2.0,3832.21,Net Banking,Returned,Delhi,VIP,0.04,8,1,7357.84
+ORD100820,CUST1132,2023-03-13,PROD2201,Electrnics,Product_95,2.0,2584.7,Net Banking,Cancelled,Bangalore,New,0.04,3,0,4962.62
+ORD100821,CUST1162,2023-05-28,PROD2037,Fasion,Product_93,2.0,3225.72,Cash on Delivery,,Chennai,New,0.22,6,0,5032.12
+ORD100822,CUST1214,2023-12-15,PROD2259,Beauty,Product_26,3.0,4927.36,Credit Card,Delivered,Hyderabad,Regular,0.06,4,0,13895.16
+ORD100823,CUST1220,2023-03-04,PROD2187,Books,Product_18,3.0,3863.23,Net Banking,Cancelled,Chennai,Regular,0.1,7,0,10430.72
+ORD100824,CUST1234,2023-11-06,PROD2056,Beauty,Product_96,4.0,2228.37,Cash on Delivery,Delivered,Mumbai,VIP,0.15,3,0,7576.46
+ORD100825,CUST1330,2023-08-31,PROD2019,Electrnics,Product_86,3.0,,Cash on Delivery,Delivered,Chennai,New,0.01,6,0,6794.08
+ORD100826,CUST1145,2023-11-26,PROD2272,Home & Kitchen,Product_38,3.0,3131.98,Net Banking,Delivered,Bangalore,Regular,0.07,9,0,8738.22
+ORD100827,CUST1238,2023-04-17,PROD2118,Fasion,Product_81,1.0,3360.29,Credit Card,Cancelled,Hyderabad,New,0.12,1,0,2957.06
+ORD100828,CUST1075,2023-08-14,PROD2070,Home & Kitchen,Product_87,4.0,2553.48,Net Banking,Cancelled,Hyderabad,New,0.08,3,0,9396.81
+ORD100829,CUST1008,2023-11-09,PROD2003,Books,Product_88,2.0,3259.82,Cash on Delivery,Delivered,Delhi,New,0.04,2,0,6258.85
+ORD100830,CUST1073,2023-08-06,PROD2220,Home & Kitchen,Product_50,3.0,215.31,Credit Card,,Pune,New,0.22,-5,0,503.83
+ORD100831,CUST1441,2023-08-29,PROD2013,Fasion,Product_8,2.0,2205.15,Cash on Delivery,Returned,Pune,New,0.24,7,1,3351.83
+ORD100832,CUST1491,2023-09-16,PROD2002,Toys,Product_41,,1466.8,Credit Card,Returned,Hyderabad,New,0.08,2,1,2698.91
+ORD100833,CUST1400,2023-09-19,PROD2215,Electrnics,Product_6,1.0,732.95,Net Banking,Cancelled,Chennai,Regular,0.23,6,0,564.37
+ORD100834,CUST1252,2023-01-05,PROD2228,Books,Product_69,3.0,587.78,UPI,Delivered,Hyderabad,New,0.12,3,0,1551.74
+ORD100835,CUST1229,2023-09-18,PROD2185,Fasion,Product_44,4.0,3055.64,Net Banking,Returned,Bangalore,VIP,0.15,8,1,10389.18
+ORD100836,CUST1006,2023-02-23,PROD2054,Electrnics,Product_64,3.0,2665.64,UPI,Returned,Pune,Regular,0.26,3,1,5917.72
+ORD100837,CUST1173,2023-02-16,PROD2253,Fasion,Product_29,2.0,1342.56,UPI,Cancelled,Chennai,VIP,0.22,9,0,2094.39
+ORD100838,CUST1140,2023-08-03,PROD2023,Electrnics,Product_28,4.0,2407.66,Net Banking,Cancelled,Bangalore,New,0.24,1,0,7319.29
+ORD100839,CUST1167,2023-06-26,PROD2161,Toys,Product_11,3.0,2511.94,Credit Card,Returned,Mumbai,New,0.04,5,1,7234.39
+ORD100840,CUST1169,2023-01-09,PROD2157,Fasion,Product_65,2.0,1055.54,Credit Card,Returned,Mumbai,VIP,0.02,3,1,2068.86
+ORD100841,CUST1392,2023-04-09,PROD2081,Books,Product_19,2.0,3295.26,UPI,Delivered,Chennai,VIP,0.27,6,0,4811.08
+ORD100842,CUST1433,2023-01-20,PROD2158,Fasion,Product_9,1.0,3926.5,Credit Card,Returned,Delhi,New,0.12,2,1,3455.32
+ORD100843,CUST1282,2023-08-29,PROD2187,Books,Product_27,1.0,3978.17,Net Banking,Delivered,Chennai,Regular,0.09,9,0,3620.13
+ORD100844,CUST1121,2023-03-02,PROD2059,Electrnics,Product_34,1.0,3052.1,Cash on Delivery,Cancelled,Hyderabad,New,0.22,6,0,2380.64
+ORD100845,CUST1193,2023-06-27,PROD2210,Books,Product_44,2.0,2607.03,UPI,Returned,Delhi,Regular,0.25,7,1,3910.54
+ORD100846,CUST1004,2023-12-04,PROD2151,Beauty,Product_68,3.0,398.94,Credit Card,Delivered,Delhi,VIP,0.26,5,0,885.65
+ORD100847,CUST1028,2023-03-03,PROD2108,Beauty,Product_82,1.0,1510.37,Credit Card,Delivered,Pune,New,0.09,9,0,1374.44
+ORD100848,CUST1164,2023-05-25,PROD2075,Home & Kitchen,Product_15,3.0,557.03,UPI,Returned,Mumbai,Regular,0.26,-5,1,1236.61
+ORD100849,CUST1421,2023-08-04,PROD2029,Beauty,Product_51,1.0,4822.73,Cash on Delivery,Returned,Mumbai,VIP,0.01,5,1,4774.5
+ORD100850,CUST1338,2023-01-03,PROD2116,Toys,Product_13,4.0,,Net Banking,Delivered,Bangalore,New,0.01,6,0,3017.08
+ORD100851,CUST1135,2023-06-09,PROD2191,Electrnics,Product_83,4.0,843.7,Credit Card,Cancelled,Mumbai,New,0.19,-5,0,2733.59
+ORD100852,CUST1495,2023-08-15,PROD2018,Electrnics,Product_49,1.0,,Credit Card,Delivered,Chennai,New,0.02,4,0,4369.75
+ORD100853,CUST1364,2023-09-26,PROD2172,Toys,Product_70,2.0,,Cash on Delivery,Returned,Chennai,Regular,0.1,1,1,8505.45
+ORD100854,CUST1320,2023-04-30,PROD2227,Beauty,Product_56,1.0,3852.56,UPI,Returned,Delhi,Regular,0.2,8,1,3082.05
+ORD100855,CUST1341,2023-03-30,PROD2182,Books,Product_76,,126.48,UPI,,Delhi,VIP,0.1,4,0,113.83
+ORD100856,CUST1499,2023-11-25,PROD2112,Fasion,Product_51,2.0,106.6,Net Banking,Cancelled,Pune,Regular,0.05,3,0,202.54
+ORD100857,CUST1144,2023-03-09,PROD2182,Home & Kitchen,Product_37,4.0,1952.69,Net Banking,Cancelled,Delhi,New,0.08,7,0,7185.9
+ORD100858,CUST1326,2023-12-23,PROD2145,Home & Kitchen,Product_17,3.0,802.64,UPI,Returned,Bangalore,New,0.14,2,1,2070.81
+ORD100859,CUST1216,2023-04-08,PROD2115,Fasion,Product_58,1.0,190.09,UPI,Cancelled,Chennai,New,0.14,8,0,163.48
+ORD100860,CUST1300,2023-09-24,PROD2112,Fasion,Product_87,2.0,,Cash on Delivery,Cancelled,Mumbai,VIP,0.23,6,0,3655.85
+ORD100861,CUST1131,2023-04-15,PROD2250,Electrnics,Product_90,1.0,4721.0,UPI,Cancelled,Chennai,New,0.23,7,0,3635.17
+ORD100862,CUST1291,2023-11-19,PROD2250,Electrnics,Product_29,2.0,1686.72,Credit Card,Returned,Delhi,Regular,0.14,5,1,2901.16
+ORD100863,CUST1069,2023-05-03,PROD2117,Beauty,Product_33,3.0,3339.59,Cash on Delivery,Delivered,Bangalore,New,0.25,9,0,7514.08
+ORD100864,CUST1251,2023-01-29,PROD2160,Books,Product_60,,3295.95,Cash on Delivery,Returned,Hyderabad,VIP,0.03,5,1,9591.21
+ORD100865,CUST1414,2023-05-17,PROD2197,Electrnics,Product_91,4.0,1330.29,Credit Card,Returned,Mumbai,New,0.08,5,1,4895.47
+ORD100866,CUST1274,2023-07-14,PROD2259,Beauty,Product_89,,3287.08,Credit Card,Cancelled,Bangalore,Regular,0.25,3,0,4930.62
+ORD100867,CUST1444,2023-08-14,PROD2147,Toys,Product_55,2.0,1140.44,UPI,Returned,Bangalore,New,0.11,1,1,2029.98
+ORD100868,CUST1363,2023-11-28,PROD2239,Home & Kitchen,Product_10,4.0,697.84,Net Banking,,Pune,VIP,0.29,2,1,1981.87
+ORD100869,CUST1181,2023-06-19,PROD2046,Electrnics,Product_47,4.0,3536.78,UPI,Returned,Hyderabad,Regular,0.14,8,1,12166.52
+ORD100870,CUST1166,2023-01-09,PROD2197,Toys,Product_23,2.0,,UPI,Delivered,Bangalore,New,0.24,1,0,996.91
+ORD100871,CUST1090,2023-02-09,PROD2046,Fasion,Product_85,,4984.86,Cash on Delivery,,Bangalore,New,0.12,7,0,17546.71
+ORD100872,CUST1201,2023-01-25,PROD2077,Electrnics,Product_21,3.0,998.92,UPI,Returned,Bangalore,New,0.13,5,1,2607.18
+ORD100873,CUST1345,2023-09-18,PROD2123,Home & Kitchen,Product_13,1.0,3011.3,Net Banking,Returned,Delhi,Regular,0.11,3,1,2680.06
+ORD100874,CUST1018,2023-08-14,PROD2074,Home & Kitchen,Product_33,3.0,2115.74,UPI,Returned,Bangalore,Regular,0.22,7,1,4950.83
+ORD100875,CUST1038,2023-05-04,PROD2136,Books,Product_24,4.0,719.29,Credit Card,Delivered,Chennai,Regular,0.16,9,0,2416.81
+ORD100876,CUST1125,2023-02-07,PROD2089,Electrnics,Product_11,2.0,236.44,Cash on Delivery,Delivered,Chennai,Regular,0.28,2,0,340.47
+ORD100877,CUST1450,2023-11-24,PROD2060,Fasion,Product_17,2.0,3151.39,UPI,Delivered,Pune,VIP,0.08,8,0,5798.56
+ORD100878,CUST1172,2023-09-08,PROD2137,Fasion,Product_68,3.0,,Credit Card,Returned,Pune,Regular,0.03,9,1,11794.55
+ORD100879,CUST1140,2023-06-25,PROD2049,Fasion,Product_47,2.0,4225.88,Credit Card,Returned,Pune,Regular,0.12,3,1,7437.55
+ORD100880,CUST1241,2023-03-31,PROD2258,Beauty,Product_25,4.0,2465.3,UPI,Returned,Pune,New,0.19,2,1,7987.57
+ORD100881,CUST1219,2023-02-06,PROD2106,Home & Kitchen,Product_94,3.0,,Net Banking,Cancelled,Hyderabad,Regular,0.26,7,0,8679.16
+ORD100882,CUST1125,2023-11-12,PROD2112,Toys,Product_73,2.0,3396.95,Cash on Delivery,Delivered,Pune,VIP,0.1,5,0,6114.51
+ORD100883,CUST1057,2023-06-25,PROD2253,Beauty,Product_21,1.0,3648.85,Cash on Delivery,Delivered,Delhi,VIP,0.2,5,0,2919.08
+ORD100884,CUST1147,2023-10-11,PROD2117,Fasion,Product_84,,2513.74,Credit Card,Returned,Hyderabad,Regular,0.11,5,1,2237.23
+ORD100885,CUST1475,2023-03-22,PROD2197,Books,Product_83,4.0,,Net Banking,Delivered,Mumbai,New,0.19,4,0,10380.05
+ORD100886,CUST1455,2023-04-24,PROD2050,Books,Product_83,2.0,4047.08,Credit Card,Returned,Bangalore,New,0.27,5,1,5908.74
+ORD100887,CUST1316,2023-02-09,PROD2244,Home & Kitchen,Product_12,4.0,2049.63,Credit Card,Cancelled,Chennai,New,0.07,4,0,7624.62
+ORD100888,CUST1382,2023-10-28,PROD2034,Electrnics,Product_37,3.0,4049.3,Credit Card,Cancelled,Pune,New,0.12,6,0,10690.15
+ORD100889,CUST1360,2023-08-12,PROD2068,Home & Kitchen,Product_42,1.0,3000.88,Credit Card,Returned,Pune,Regular,0.3,4,1,2100.62
+ORD100890,CUST1422,2023-11-14,PROD2048,Toys,Product_17,,912.92,UPI,Returned,Chennai,New,0.26,2,1,2026.68
+ORD100891,CUST1000,2023-12-15,PROD2073,Toys,Product_48,2.0,220.95,UPI,Cancelled,Mumbai,VIP,0.17,9,0,366.78
+ORD100892,CUST1386,2023-04-25,PROD2191,Home & Kitchen,Product_28,,1877.49,Cash on Delivery,Delivered,Mumbai,Regular,0.15,2,0,6383.47
+ORD100893,CUST1460,2023-07-05,PROD2260,Beauty,Product_41,4.0,2778.81,Net Banking,Cancelled,Bangalore,VIP,0.09,9,0,10114.87
+ORD100894,CUST1347,2023-11-19,PROD2069,Books,Product_99,4.0,4215.12,Cash on Delivery,Returned,Mumbai,VIP,0.16,6,1,14162.8
+ORD100895,CUST1189,2023-02-25,PROD2089,Toys,Product_47,3.0,724.68,Net Banking,Cancelled,Bangalore,New,0.25,9,0,1630.53
+ORD100896,CUST1190,2023-02-09,PROD2259,Beauty,Product_18,1.0,4021.01,Cash on Delivery,Cancelled,Chennai,VIP,0.21,9,0,3176.6
+ORD100897,CUST1368,2023-12-20,PROD2125,Books,Product_78,3.0,4328.74,Cash on Delivery,Cancelled,Mumbai,VIP,0.09,3,0,11817.46
+ORD100898,CUST1408,2023-02-09,PROD2230,Home & Kitchen,Product_99,3.0,,Cash on Delivery,Delivered,Delhi,Regular,0.06,1,0,2364.2
+ORD100899,CUST1311,2023-12-13,PROD2294,Beauty,Product_71,2.0,4272.81,Cash on Delivery,Cancelled,Pune,New,0.08,1,0,7861.97
+ORD100900,CUST1416,2023-08-25,PROD2128,Electrnics,Product_13,2.0,4958.12,UPI,Cancelled,Mumbai,New,0.05,3,0,9420.43
+ORD100901,CUST1421,2023-10-16,PROD2279,Toys,Product_82,,,Credit Card,Returned,Pune,VIP,0.03,5,1,7103.33
+ORD100902,CUST1116,2023-09-19,PROD2099,Fasion,Product_13,1.0,3945.37,Cash on Delivery,Cancelled,Hyderabad,VIP,0.13,3,0,3432.47
+ORD100903,CUST1133,2023-08-04,PROD2296,Fasion,Product_31,1.0,4972.63,Credit Card,Delivered,Pune,New,0.03,9,0,4823.45
+ORD100904,CUST1057,2023-05-27,PROD2181,Books,Product_2,2.0,3066.86,Cash on Delivery,Cancelled,Mumbai,Regular,0.05,9,0,5827.03
+ORD100905,CUST1043,2023-12-02,PROD2173,Beauty,Product_16,2.0,1608.64,UPI,Delivered,Bangalore,New,0.16,3,0,2702.52
+ORD100906,CUST1172,2023-06-17,PROD2187,Fasion,Product_9,1.0,4203.9,Credit Card,Delivered,Mumbai,New,0.05,3,0,3993.7
+ORD100907,CUST1159,2023-04-02,PROD2056,Toys,Product_73,4.0,,Cash on Delivery,Returned,Pune,Regular,0.02,5,1,12195.04
+ORD100908,CUST1172,2023-12-19,PROD2030,Electrnics,Product_38,1.0,,UPI,Returned,Hyderabad,New,0.1,2,1,2653.07
+ORD100909,CUST1316,2023-02-28,PROD2083,Electrnics,Product_75,1.0,1342.81,UPI,Delivered,Delhi,Regular,0.07,6,0,1248.81
+ORD100910,CUST1302,2023-02-28,PROD2151,Beauty,Product_54,1.0,3806.04,Cash on Delivery,Returned,Chennai,New,0.15,7,1,3235.13
+ORD100911,CUST1148,2023-10-31,PROD2035,Beauty,Product_56,2.0,500.17,Net Banking,Returned,Hyderabad,VIP,0.03,9,1,970.33
+ORD100912,CUST1079,2023-06-18,PROD2212,Toys,Product_86,4.0,4629.01,Credit Card,Delivered,Delhi,VIP,0.23,6,0,14257.35
+ORD100913,CUST1373,2023-09-26,PROD2105,Beauty,Product_97,1.0,1696.53,Credit Card,Returned,Hyderabad,Regular,0.27,3,1,1238.47
+ORD100914,CUST1212,2023-12-29,PROD2219,Electrnics,Product_87,,726.1,Cash on Delivery,Returned,Mumbai,Regular,0.22,5,1,1132.72
+ORD100915,CUST1202,2023-02-14,PROD2162,Home & Kitchen,Product_45,3.0,2267.6,Cash on Delivery,Delivered,Pune,New,0.16,4,0,5714.35
+ORD100916,CUST1251,2023-12-11,PROD2219,Toys,Product_34,3.0,308.1,Cash on Delivery,Returned,Pune,New,0.26,-5,1,683.98
+ORD100917,CUST1228,2023-06-30,PROD2269,Home & Kitchen,Product_9,1.0,3454.67,Cash on Delivery,Cancelled,Mumbai,Regular,0.21,8,0,2729.19
+ORD100918,CUST1163,2023-06-19,PROD2119,Electrnics,Product_88,3.0,4523.26,Cash on Delivery,Cancelled,Pune,VIP,0.0,-5,0,-100.0
+ORD100919,CUST1226,2023-12-22,PROD2181,Toys,Product_8,4.0,,Credit Card,Cancelled,Delhi,Regular,0.12,6,0,14793.12
+ORD100920,CUST1146,2023-07-10,PROD2105,Toys,Product_7,3.0,724.11,Net Banking,Cancelled,Hyderabad,New,0.26,1,0,1607.52
+ORD100921,CUST1019,2023-06-04,PROD2216,Home & Kitchen,Product_36,3.0,718.73,Cash on Delivery,Delivered,Bangalore,New,0.1,8,0,1940.57
+ORD100922,CUST1440,2023-07-07,PROD2204,Toys,Product_18,4.0,4085.83,Net Banking,Cancelled,Pune,Regular,0.01,8,0,16179.89
+ORD100923,CUST1401,2023-01-07,PROD2069,Fasion,Product_3,,4628.85,UPI,Cancelled,Pune,VIP,0.22,2,0,3610.5
+ORD100924,CUST1046,2023-05-13,PROD2043,Toys,Product_28,1.0,2357.28,Credit Card,Delivered,Hyderabad,VIP,0.24,4,0,1791.53
+ORD100925,CUST1232,2023-08-23,PROD2227,Books,Product_70,4.0,2544.96,Net Banking,Returned,Pune,Regular,0.05,2,1,9670.85
+ORD100926,CUST1304,2023-02-14,PROD2183,Beauty,Product_44,4.0,1659.48,Net Banking,Delivered,Chennai,Regular,0.16,4,0,5575.85
+ORD100927,CUST1013,2023-11-10,PROD2106,Books,Product_21,4.0,4481.9,Credit Card,Delivered,Bangalore,New,0.06,-5,0,16851.94
+ORD100928,CUST1142,2023-09-06,PROD2083,Books,Product_28,3.0,3260.02,UPI,Cancelled,Bangalore,Regular,0.22,9,0,7628.45
+ORD100929,CUST1414,2023-01-31,PROD2249,Home & Kitchen,Product_54,4.0,1512.43,Cash on Delivery,Delivered,Pune,VIP,0.08,8,0,5565.74
+ORD100930,CUST1000,2023-01-23,PROD2020,Fasion,Product_54,2.0,1564.04,Net Banking,Cancelled,Hyderabad,VIP,0.09,9,0,2846.55
+ORD100931,CUST1372,2023-06-09,PROD2195,Home & Kitchen,Product_65,3.0,4466.88,Net Banking,Returned,Chennai,New,0.25,8,1,10050.48
+ORD100932,CUST1053,2023-12-29,PROD2177,Fasion,Product_21,,,Cash on Delivery,Cancelled,Hyderabad,Regular,0.14,2,0,143.46
+ORD100933,CUST1373,2023-06-07,PROD2006,Electrnics,Product_99,1.0,1681.36,UPI,Delivered,Delhi,VIP,0.2,7,0,1345.09
+ORD100934,CUST1258,2023-02-08,PROD2069,Books,Product_13,1.0,2816.35,Net Banking,Returned,Pune,New,0.12,2,1,2478.39
+ORD100935,CUST1143,2023-03-23,PROD2126,Fasion,Product_57,,,Cash on Delivery,,Pune,Regular,0.09,2,1,2255.72
+ORD100936,CUST1470,2023-12-22,PROD2159,Toys,Product_49,2.0,551.28,Cash on Delivery,Delivered,Mumbai,Regular,0.19,4,0,893.07
+ORD100937,CUST1440,2023-09-15,PROD2247,Toys,Product_54,,4094.85,Credit Card,Returned,Bangalore,VIP,0.05,1,1,15560.43
+ORD100938,CUST1458,2023-07-25,PROD2202,Beauty,Product_10,4.0,,Cash on Delivery,Returned,Bangalore,VIP,0.11,5,1,15957.98
+ORD100939,CUST1011,2023-03-18,PROD2147,Home & Kitchen,Product_53,1.0,4135.67,Credit Card,Cancelled,Delhi,VIP,0.06,6,0,3887.53
+ORD100940,CUST1329,2023-01-12,PROD2142,Home & Kitchen,Product_44,1.0,4504.06,UPI,Cancelled,Hyderabad,VIP,0.21,9,0,3558.21
+ORD100941,CUST1223,2023-10-22,PROD2198,Books,Product_47,,2810.25,Cash on Delivery,Delivered,Hyderabad,VIP,0.28,8,0,6070.14
+ORD100942,CUST1271,2023-08-12,PROD2153,Toys,Product_53,2.0,4080.06,Net Banking,Returned,Hyderabad,New,0.3,2,1,5712.08
+ORD100943,CUST1455,2023-01-13,PROD2141,Fasion,Product_74,4.0,1981.81,Credit Card,Delivered,Bangalore,New,0.14,1,0,6817.43
+ORD100944,CUST1357,2023-02-15,PROD2164,Books,Product_46,3.0,3364.71,Net Banking,Returned,Mumbai,Regular,0.08,2,1,9286.6
+ORD100945,CUST1459,2023-06-04,PROD2020,Toys,Product_13,4.0,4945.29,Credit Card,Returned,Mumbai,Regular,0.13,7,1,17209.61
+ORD100946,CUST1407,2023-04-23,PROD2081,Home & Kitchen,Product_37,1.0,,UPI,Cancelled,Pune,New,0.25,4,0,904.55
+ORD100947,CUST1155,2023-08-21,PROD2068,Toys,Product_24,,,Credit Card,Cancelled,Delhi,VIP,0.06,5,0,7559.52
+ORD100948,CUST1372,2023-01-17,PROD2130,Home & Kitchen,Product_2,2.0,2452.23,Credit Card,Delivered,Mumbai,VIP,0.29,7,0,3482.17
+ORD100949,CUST1007,2023-12-26,PROD2086,Electrnics,Product_86,2.0,776.28,Credit Card,Cancelled,Hyderabad,Regular,0.1,3,0,1397.3
+ORD100950,CUST1121,2023-08-11,PROD2217,Fasion,Product_81,1.0,497.09,Credit Card,Cancelled,Bangalore,New,0.3,2,0,347.96
+ORD100951,CUST1347,2023-12-20,PROD2160,Home & Kitchen,Product_14,2.0,4165.64,Net Banking,Returned,Chennai,New,0.25,7,1,6248.46
+ORD100952,CUST1163,2023-07-07,PROD2177,Home & Kitchen,Product_10,,4886.29,UPI,Returned,Pune,VIP,0.24,5,1,7427.16
+ORD100953,CUST1089,2023-12-10,PROD2116,Books,Product_35,3.0,2083.15,Net Banking,Delivered,Delhi,New,0.1,1,0,5624.51
+ORD100954,CUST1135,2023-12-31,PROD2195,Books,Product_25,4.0,529.48,Net Banking,Delivered,Pune,Regular,0.0,1,0,2117.92
+ORD100955,CUST1185,2023-06-12,PROD2085,Electrnics,Product_3,1.0,422.48,UPI,Cancelled,Chennai,VIP,0.11,9,0,376.01
+ORD100956,CUST1315,2023-11-22,PROD2288,Books,Product_17,1.0,4467.46,Net Banking,Cancelled,Hyderabad,Regular,0.09,5,0,4065.39
+ORD100957,CUST1177,2023-03-15,PROD2080,Fasion,Product_12,1.0,2372.69,Cash on Delivery,Delivered,Delhi,Regular,0.01,1,0,2348.96
+ORD100958,CUST1027,2023-08-21,PROD2151,Toys,Product_54,1.0,1668.13,Cash on Delivery,Returned,Bangalore,Regular,0.15,7,1,1417.91
+ORD100959,CUST1219,2023-08-12,PROD2060,Books,Product_24,1.0,2434.66,UPI,Cancelled,Mumbai,Regular,0.12,9,0,2142.5
+ORD100960,CUST1356,2023-11-15,PROD2060,Fasion,Product_29,2.0,1659.69,UPI,Delivered,Hyderabad,VIP,0.19,1,0,2688.7
+ORD100961,CUST1040,2023-03-01,PROD2027,Electrnics,Product_43,3.0,2496.28,UPI,Delivered,Hyderabad,VIP,0.19,4,0,6065.96
+ORD100962,CUST1227,2023-12-01,PROD2042,Beauty,Product_25,1.0,4311.83,Net Banking,Delivered,Delhi,Regular,0.04,3,0,4139.36
+ORD100963,CUST1191,2023-08-10,PROD2168,Home & Kitchen,Product_60,3.0,3002.28,Cash on Delivery,Cancelled,Chennai,Regular,0.29,5,0,6394.86
+ORD100964,CUST1410,2023-02-06,PROD2085,Electrnics,Product_90,3.0,,UPI,Returned,Chennai,New,0.06,7,1,9880.72
+ORD100965,CUST1446,2023-10-05,PROD2176,Home & Kitchen,Product_65,,1886.89,Credit Card,Delivered,Mumbai,VIP,0.13,-5,0,3283.19
+ORD100966,CUST1144,2023-07-15,PROD2016,Home & Kitchen,Product_84,1.0,3718.68,Credit Card,Cancelled,Delhi,Regular,0.15,2,0,3160.88
+ORD100967,CUST1200,2023-12-18,PROD2097,Electrnics,Product_28,2.0,3366.42,Net Banking,Delivered,Bangalore,Regular,0.24,7,0,5116.96
+ORD100968,CUST1416,2023-08-30,PROD2197,Home & Kitchen,Product_16,1.0,685.85,Cash on Delivery,,Pune,Regular,0.03,1,0,665.27
+ORD100969,CUST1211,2023-11-20,PROD2097,Books,Product_47,2.0,2905.95,Cash on Delivery,Returned,Pune,Regular,0.13,7,1,5056.35
+ORD100970,CUST1460,2023-08-07,PROD2064,Fasion,Product_81,3.0,1358.04,Credit Card,Delivered,Chennai,New,0.19,8,0,3300.04
+ORD100971,CUST1219,2023-07-11,PROD2004,Fasion,Product_92,1.0,4040.07,Net Banking,Returned,Pune,Regular,0.06,2,1,3797.67
+ORD100972,CUST1239,2023-01-17,PROD2001,Electrnics,Product_58,4.0,2187.09,Cash on Delivery,Delivered,Bangalore,Regular,0.19,9,0,7086.17
+ORD100973,CUST1412,2023-01-12,PROD2021,Toys,Product_76,3.0,4973.95,Cash on Delivery,Returned,Bangalore,VIP,0.28,1,1,10743.73
+ORD100974,CUST1396,2023-07-12,PROD2111,Electrnics,Product_27,4.0,,Credit Card,Cancelled,Hyderabad,Regular,0.3,6,0,1549.1
+ORD100975,CUST1045,2023-01-22,PROD2056,Electrnics,Product_53,3.0,3923.7,Cash on Delivery,Returned,Pune,Regular,0.01,1,1,11653.39
+ORD100976,CUST1034,2023-04-30,PROD2065,Toys,Product_42,2.0,3401.14,Credit Card,,Chennai,Regular,0.07,3,1,6326.12
+ORD100977,CUST1252,2023-07-29,PROD2097,Beauty,Product_59,1.0,3860.74,UPI,Delivered,Mumbai,New,0.09,6,0,3513.27
+ORD100978,CUST1389,2023-11-02,PROD2143,Books,Product_47,3.0,1606.9,UPI,Delivered,Chennai,VIP,0.12,-5,0,4242.22
+ORD100979,CUST1081,2023-09-27,PROD2124,Home & Kitchen,Product_94,2.0,2511.07,UPI,Cancelled,Mumbai,New,0.07,8,0,4670.59
+ORD100980,CUST1370,2023-07-11,PROD2166,Books,Product_34,1.0,4002.89,Cash on Delivery,Returned,Pune,Regular,0.06,5,1,3762.72
+ORD100981,CUST1255,2023-06-24,PROD2085,Beauty,Product_37,1.0,1239.45,Credit Card,Cancelled,Pune,New,0.29,2,0,880.01
+ORD100982,CUST1196,2023-10-12,PROD2075,Home & Kitchen,Product_6,3.0,1207.56,Cash on Delivery,Cancelled,Mumbai,New,0.28,4,0,2608.33
+ORD100983,CUST1302,2023-07-23,PROD2293,Beauty,Product_7,,2800.15,Net Banking,Cancelled,Mumbai,New,0.01,9,0,2772.15
+ORD100984,CUST1408,2023-06-13,PROD2058,Toys,Product_96,3.0,2665.46,Net Banking,Cancelled,Pune,Regular,0.1,4,0,7196.74
+ORD100985,CUST1449,2023-09-08,PROD2137,Books,Product_96,1.0,1483.09,UPI,Returned,Mumbai,Regular,0.12,8,1,1305.12
+ORD100986,CUST1009,2023-08-15,PROD2098,Books,Product_25,4.0,1560.57,Cash on Delivery,Returned,Chennai,Regular,0.07,5,1,5805.32
+ORD100987,CUST1311,2023-01-07,PROD2191,Toys,Product_33,2.0,1461.44,Cash on Delivery,Cancelled,Bangalore,New,0.19,1,0,2367.53
+ORD100988,CUST1285,2023-01-29,PROD2242,Home & Kitchen,Product_55,4.0,3880.41,Cash on Delivery,Cancelled,Delhi,New,0.19,7,0,12572.53
+ORD100989,CUST1241,2023-02-02,PROD2048,Home & Kitchen,Product_58,3.0,3294.31,Net Banking,Delivered,Chennai,Regular,0.26,3,0,7313.37
+ORD100990,CUST1250,2023-05-14,PROD2031,Electrnics,Product_7,,4178.84,Credit Card,Returned,Delhi,Regular,0.22,8,1,13037.98
+ORD100991,CUST1364,2023-03-20,PROD2276,Electrnics,Product_57,3.0,,UPI,Delivered,Delhi,Regular,0.16,3,0,12297.15
+ORD100992,CUST1004,2023-02-27,PROD2019,Home & Kitchen,Product_12,1.0,2423.41,Credit Card,Delivered,Bangalore,VIP,0.2,1,0,1938.73
+ORD100993,CUST1118,2023-01-26,PROD2153,Beauty,Product_16,1.0,426.8,Credit Card,Cancelled,Chennai,Regular,0.08,5,0,392.66
+ORD100994,CUST1288,2023-08-14,PROD2067,Books,Product_80,3.0,335.65,Net Banking,Cancelled,Delhi,VIP,0.18,2,0,825.7
+ORD100995,CUST1373,2023-10-12,PROD2213,Beauty,Product_43,4.0,1548.76,UPI,Delivered,Chennai,New,0.15,4,0,5265.78
+ORD100996,CUST1064,2023-01-04,PROD2142,Home & Kitchen,Product_77,1.0,4669.47,Credit Card,Cancelled,Mumbai,New,0.04,1,0,4482.69
+ORD100997,CUST1145,2023-04-09,PROD2231,Books,Product_7,2.0,2663.74,Credit Card,Returned,Mumbai,New,0.07,9,1,4954.56
+ORD100998,CUST1223,2023-02-08,PROD2212,Fasion,Product_51,1.0,1431.75,UPI,Returned,Bangalore,Regular,0.09,6,1,1302.89
+ORD100999,CUST1238,2023-09-28,PROD2078,Books,Product_73,2.0,2055.92,Credit Card,Returned,Mumbai,Regular,0.28,8,1,2960.52
+ORD100521,CUST1407,2023-06-27,PROD2165,Beauty,Product_8,1.0,1541.91,Credit Card,Cancelled,Delhi,VIP,0.07,1,0,1433.98
+ORD100737,CUST1375,2023-06-25,PROD2267,Books,Product_60,4.0,276.06,Cash on Delivery,Delivered,Pune,Regular,0.19,3,0,894.43
+ORD100740,CUST1276,2023-08-03,PROD2148,Home & Kitchen,Product_96,,2158.02,Credit Card,Returned,Mumbai,VIP,0.07,1,1,2006.96
+ORD100660,CUST1356,2023-04-08,PROD2283,Beauty,Product_45,3.0,1656.7,Credit Card,Delivered,Bangalore,Regular,0.21,4,0,3926.38
+ORD100411,CUST1276,2023-04-21,PROD2159,Beauty,Product_36,3.0,1237.07,Cash on Delivery,Returned,Chennai,Regular,0.09,4,1,3377.2
+ORD100678,CUST1003,2023-03-14,PROD2016,Home & Kitchen,Product_22,3.0,139.49,Credit Card,Returned,Delhi,VIP,0.16,3,1,351.51
+ORD100626,CUST1068,2023-11-09,PROD2187,Fasion,Product_12,1.0,3134.27,Net Banking,Delivered,Pune,Regular,0.03,5,0,3040.24
+ORD100513,CUST1038,2023-12-25,PROD2261,Toys,Product_43,4.0,4574.84,UPI,Delivered,Mumbai,VIP,0.22,7,0,14273.5
+ORD100859,CUST1216,2023-04-08,PROD2115,Fasion,Product_58,1.0,190.09,UPI,Cancelled,Chennai,New,0.14,8,0,163.48
+ORD100136,CUST1135,2023-08-02,PROD2058,Fasion,Product_11,4.0,2964.87,Net Banking,Returned,Chennai,New,0.12,7,1,10436.34
+ORD100811,CUST1038,2023-01-11,PROD2131,Toys,Product_78,2.0,271.2,Credit Card,Delivered,Bangalore,VIP,0.24,9,0,412.22
+ORD100076,CUST1454,2023-04-16,PROD2091,Home & Kitchen,Product_34,3.0,2773.37,Cash on Delivery,Returned,Delhi,Regular,0.26,3,1,6156.88
+ORD100636,CUST1085,2023-07-09,PROD2251,Books,Product_75,4.0,3276.36,Cash on Delivery,Returned,Hyderabad,VIP,0.19,9,1,10615.41
+ORD100973,CUST1412,2023-01-12,PROD2021,Toys,Product_76,3.0,4973.95,Cash on Delivery,Returned,Bangalore,VIP,0.28,1,1,10743.73
+ORD100938,CUST1458,2023-07-25,PROD2202,Beauty,Product_10,4.0,,Cash on Delivery,Returned,Bangalore,VIP,0.11,5,1,15957.98
+ORD100899,CUST1311,2023-12-13,PROD2294,Beauty,Product_71,2.0,4272.81,Cash on Delivery,Cancelled,Pune,New,0.08,1,0,7861.97
+ORD100280,CUST1219,2023-01-13,PROD2219,Beauty,Product_47,2.0,4020.36,Net Banking,Delivered,Chennai,Regular,0.02,8,0,7879.91
+ORD100883,CUST1057,2023-06-25,PROD2253,Beauty,Product_21,1.0,3648.85,Cash on Delivery,Delivered,Delhi,VIP,0.2,5,0,2919.08
+ORD100761,CUST1036,2023-07-29,PROD2094,Beauty,Product_8,,900.35,Cash on Delivery,Delivered,Mumbai,New,0.11,2,0,2403.93
+ORD100319,CUST1463,2023-03-19,PROD2220,Toys,Product_6,1.0,1582.15,Cash on Delivery,Returned,Mumbai,Regular,0.05,9,1,1503.04
